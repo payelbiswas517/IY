@@ -1,0 +1,12 @@
+com\invoicingyou\qa\pages\SupportPage.class
+com\invoicingyou\qa\pages\LogInPage.class
+com\invoicingyou\qa\pages\HomePage.class
+com\invoicingyou\qa\pages\StripeAccountPage.class
+com\invoicingyou\qa\pages\CustomersPage.class
+com\invoicingyou\qa\pages\SettingsPage.class
+com\invoicingyou\qa\pages\SignUpPage.class
+com\invoicingyou\qa\pages\LogOutPage.class
+com\invoicingyou\qa\util\GlobalUtility$1.class
+com\invoicingyou\qa\pages\PaymentLogPage.class
+com\invoicingyou\qa\pages\DashboardPage.class
+com\invoicingyou\qa\pages\WidgetsPage.class

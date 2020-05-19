@@ -1,0 +1,1109 @@
+2020-04-28 16:31:15 DEBUG DashboardPageTest:34 - In Setup..
+  2020-04-28 16:31:15 INFO  Base:46 - Selected Browser:chrome
+  2020-04-28 16:31:15 DEBUG Base:48 - Web Driver Location: E:/chromedriver_win32/chromedriver.exe
+  2020-04-28 16:31:15 DEBUG Base:50 - Web Driver Path: E:\chromedriver_win32\chromedriver.exe
+  2020-04-28 16:31:22 DEBUG Base:17 - IN Customer page..com.invoicingyou.qa.pages.CustomersPage
+  2020-04-28 16:31:22 DEBUG CustomerPageTest:37 - In Setup..
+  2020-04-28 16:31:22 INFO  Base:46 - Selected Browser:chrome
+  2020-04-28 16:31:22 DEBUG Base:48 - Web Driver Location: E:/chromedriver_win32/chromedriver.exe
+  2020-04-28 16:31:22 DEBUG Base:50 - Web Driver Path: E:\chromedriver_win32\chromedriver.exe
+  2020-04-28 16:31:32 DEBUG Base:17 - IN Customer page..com.invoicingyou.qa.pages.CustomersPage
+  2020-04-28 16:31:32 INFO  DashboardPage:17 - Dashboard landed. com.invoicingyou.qa.pages.DashboardPage
+  2020-04-28 16:31:32 DEBUG CustomerPageTest:46 - Logging in...
+  2020-04-28 16:31:32 INFO  ExcelFileUtility:23 - Test Data File Path: E:/Invoicing You_Java/TestData/InvoicingYouData.xlsx
+  2020-04-28 16:31:32 DEBUG ExcelFileUtility:25 - File Size: 10600
+  2020-04-28 16:31:32 INFO  ExcelFileUtility:36 - Sheet Name:Login
+  2020-04-28 16:31:32 DEBUG LogInPage:36 - Login credential: work+payeltest@tier5.in/123456
+  2020-04-28 16:31:33 INFO  LogInPage:41 - Login button clicked
+  2020-04-28 16:31:33 INFO  LogInPage:46 - Riderecting to dashboard page
+  2020-04-28 16:31:33 INFO  DashboardPage:17 - Dashboard landed. com.invoicingyou.qa.pages.DashboardPage
+  2020-04-28 16:31:43 DEBUG CustomerPageTest:56 - Open Customer page
+  2020-04-28 16:31:43 DEBUG Base:17 - IN Customer page..com.invoicingyou.qa.pages.CustomersPage
+  2020-04-28 16:31:43 INFO  ExcelFileUtility:23 - Test Data File Path: E:/Invoicing You_Java/TestData/InvoicingYouData.xlsx
+  2020-04-28 16:31:43 DEBUG ExcelFileUtility:25 - File Size: 10600
+  2020-04-28 16:31:43 INFO  ExcelFileUtility:36 - Sheet Name:Customers
+  2020-04-28 16:31:55 DEBUG DashboardPageTest:42 - Logging in...
+  2020-04-28 16:31:55 INFO  ExcelFileUtility:23 - Test Data File Path: E:/Invoicing You_Java/TestData/InvoicingYouData.xlsx
+  2020-04-28 16:31:55 DEBUG ExcelFileUtility:25 - File Size: 10600
+  2020-04-28 16:31:55 INFO  ExcelFileUtility:36 - Sheet Name:Login
+  2020-04-28 16:31:55 DEBUG LogInPage:36 - Login credential: work+payeltest@tier5.in/123456
+  2020-04-28 16:31:56 INFO  LogInPage:41 - Login button clicked
+  2020-04-28 16:31:56 INFO  LogInPage:46 - Riderecting to dashboard page
+  2020-04-28 16:31:56 INFO  DashboardPage:17 - Dashboard landed. com.invoicingyou.qa.pages.DashboardPage
+  2020-04-28 16:32:01 DEBUG DashboardPageTest:52 - Open Customer page
+  2020-04-28 16:32:01 INFO  Base:46 - Selected Browser:chrome
+  2020-04-28 16:32:01 DEBUG Base:48 - Web Driver Location: E:/chromedriver_win32/chromedriver.exe
+  2020-04-28 16:32:01 DEBUG Base:50 - Web Driver Path: E:\chromedriver_win32\chromedriver.exe
+  2020-04-28 16:32:08 INFO  ExcelFileUtility:23 - Test Data File Path: E:/Invoicing You_Java/TestData/InvoicingYouData.xlsx
+  2020-04-28 16:32:08 DEBUG ExcelFileUtility:25 - File Size: 10600
+  2020-04-28 16:32:08 INFO  ExcelFileUtility:36 - Sheet Name:Login
+  2020-04-28 16:32:08 DEBUG LogInPage:36 - Login credential: work+payeltest@tier5.in/123456
+  2020-04-28 16:32:08 INFO  LogInPage:41 - Login button clicked
+  2020-04-28 16:32:08 INFO  LogInPage:46 - Riderecting to dashboard page
+  2020-04-28 16:32:08 INFO  DashboardPage:17 - Dashboard landed. com.invoicingyou.qa.pages.DashboardPage
+  2020-04-28 16:33:23 DEBUG DashboardPageTest:34 - In Setup..
+  2020-04-28 16:33:23 INFO  Base:46 - Selected Browser:chrome
+  2020-04-28 16:33:23 DEBUG Base:48 - Web Driver Location: E:/chromedriver_win32/chromedriver.exe
+  2020-04-28 16:33:23 DEBUG Base:50 - Web Driver Path: E:\chromedriver_win32\chromedriver.exe
+  2020-04-28 16:33:30 DEBUG Base:17 - IN Customer page..com.invoicingyou.qa.pages.CustomersPage
+  2020-04-28 16:33:30 DEBUG CustomerPageTest:37 - In Setup..
+  2020-04-28 16:33:30 INFO  Base:46 - Selected Browser:chrome
+  2020-04-28 16:33:30 DEBUG Base:48 - Web Driver Location: E:/chromedriver_win32/chromedriver.exe
+  2020-04-28 16:33:30 DEBUG Base:50 - Web Driver Path: E:\chromedriver_win32\chromedriver.exe
+  2020-04-28 16:33:48 DEBUG Base:17 - IN Customer page..com.invoicingyou.qa.pages.CustomersPage
+  2020-04-28 16:33:48 INFO  DashboardPage:17 - Dashboard landed. com.invoicingyou.qa.pages.DashboardPage
+  2020-04-28 16:33:48 DEBUG CustomerPageTest:46 - Logging in...
+  2020-04-28 16:33:48 INFO  ExcelFileUtility:23 - Test Data File Path: E:/Invoicing You_Java/TestData/InvoicingYouData.xlsx
+  2020-04-28 16:33:48 DEBUG ExcelFileUtility:25 - File Size: 10600
+  2020-04-28 16:33:49 INFO  ExcelFileUtility:36 - Sheet Name:Login
+  2020-04-28 16:33:49 DEBUG LogInPage:36 - Login credential: work+payeltest@tier5.in/123456
+  2020-04-28 16:33:49 INFO  LogInPage:41 - Login button clicked
+  2020-04-28 16:33:49 INFO  LogInPage:46 - Riderecting to dashboard page
+  2020-04-28 16:33:49 INFO  DashboardPage:17 - Dashboard landed. com.invoicingyou.qa.pages.DashboardPage
+  2020-04-28 16:33:59 DEBUG CustomerPageTest:56 - Open Customer page
+  2020-04-28 16:33:59 DEBUG Base:17 - IN Customer page..com.invoicingyou.qa.pages.CustomersPage
+  2020-04-28 16:33:59 INFO  ExcelFileUtility:23 - Test Data File Path: E:/Invoicing You_Java/TestData/InvoicingYouData.xlsx
+  2020-04-28 16:33:59 DEBUG ExcelFileUtility:25 - File Size: 10600
+  2020-04-28 16:33:59 INFO  ExcelFileUtility:36 - Sheet Name:Customers
+  2020-04-28 16:34:11 DEBUG DashboardPageTest:42 - Logging in...
+  2020-04-28 16:34:11 INFO  ExcelFileUtility:23 - Test Data File Path: E:/Invoicing You_Java/TestData/InvoicingYouData.xlsx
+  2020-04-28 16:34:11 DEBUG ExcelFileUtility:25 - File Size: 10600
+  2020-04-28 16:34:11 INFO  ExcelFileUtility:36 - Sheet Name:Login
+  2020-04-28 16:34:11 DEBUG LogInPage:36 - Login credential: work+payeltest@tier5.in/123456
+  2020-04-28 16:34:11 INFO  LogInPage:41 - Login button clicked
+  2020-04-28 16:34:11 INFO  LogInPage:46 - Riderecting to dashboard page
+  2020-04-28 16:34:11 INFO  DashboardPage:17 - Dashboard landed. com.invoicingyou.qa.pages.DashboardPage
+  2020-04-28 16:34:16 DEBUG DashboardPageTest:52 - Open Customer page
+  2020-04-28 16:34:17 DEBUG Base:17 - IN Customer page..com.invoicingyou.qa.pages.CustomersPage
+  2020-04-28 16:34:22 INFO  Base:46 - Selected Browser:chrome
+  2020-04-28 16:34:22 DEBUG Base:48 - Web Driver Location: E:/chromedriver_win32/chromedriver.exe
+  2020-04-28 16:34:22 DEBUG Base:50 - Web Driver Path: E:\chromedriver_win32\chromedriver.exe
+  2020-04-28 16:34:30 INFO  ExcelFileUtility:23 - Test Data File Path: E:/Invoicing You_Java/TestData/InvoicingYouData.xlsx
+  2020-04-28 16:34:30 DEBUG ExcelFileUtility:25 - File Size: 10600
+  2020-04-28 16:34:30 INFO  ExcelFileUtility:36 - Sheet Name:Login
+  2020-04-28 16:34:30 DEBUG LogInPage:36 - Login credential: work+payeltest@tier5.in/123456
+  2020-04-28 16:34:30 INFO  LogInPage:41 - Login button clicked
+  2020-04-28 16:34:30 INFO  LogInPage:46 - Riderecting to dashboard page
+  2020-04-28 16:34:30 INFO  DashboardPage:17 - Dashboard landed. com.invoicingyou.qa.pages.DashboardPage
+  2020-04-28 16:43:23 DEBUG CustomerPageTest:37 - In Setup..
+  2020-04-28 16:43:23 INFO  Base:46 - Selected Browser:chrome
+  2020-04-28 16:43:23 DEBUG Base:48 - Web Driver Location: E:/chromedriver_win32/chromedriver.exe
+  2020-04-28 16:43:23 DEBUG Base:50 - Web Driver Path: E:\chromedriver_win32\chromedriver.exe
+  2020-04-28 16:43:31 DEBUG Base:17 - IN Customer page..com.invoicingyou.qa.pages.CustomersPage
+  2020-04-28 16:43:31 INFO  DashboardPage:17 - Dashboard landed. com.invoicingyou.qa.pages.DashboardPage
+  2020-04-28 16:43:31 DEBUG CustomerPageTest:46 - Logging in...
+  2020-04-28 16:43:31 INFO  ExcelFileUtility:23 - Test Data File Path: E:/Invoicing You_Java/TestData/InvoicingYouData.xlsx
+  2020-04-28 16:43:31 DEBUG ExcelFileUtility:25 - File Size: 10600
+  2020-04-28 16:43:32 INFO  ExcelFileUtility:36 - Sheet Name:Login
+  2020-04-28 16:43:32 DEBUG LogInPage:36 - Login credential: work+payeltest@tier5.in/123456
+  2020-04-28 16:43:32 INFO  LogInPage:41 - Login button clicked
+  2020-04-28 16:43:32 INFO  LogInPage:46 - Riderecting to dashboard page
+  2020-04-28 16:43:32 INFO  DashboardPage:17 - Dashboard landed. com.invoicingyou.qa.pages.DashboardPage
+  2020-04-28 16:43:42 DEBUG CustomerPageTest:56 - Open Customer page
+  2020-04-28 16:43:42 DEBUG Base:17 - IN Customer page..com.invoicingyou.qa.pages.CustomersPage
+  2020-04-28 16:43:42 INFO  ExcelFileUtility:23 - Test Data File Path: E:/Invoicing You_Java/TestData/InvoicingYouData.xlsx
+  2020-04-28 16:43:42 DEBUG ExcelFileUtility:25 - File Size: 10600
+  2020-04-28 16:43:42 INFO  ExcelFileUtility:36 - Sheet Name:Customers
+  2020-04-28 16:45:38 DEBUG DashboardPageTest:34 - In Setup..
+  2020-04-28 16:45:38 INFO  Base:46 - Selected Browser:chrome
+  2020-04-28 16:45:38 DEBUG Base:48 - Web Driver Location: E:/chromedriver_win32/chromedriver.exe
+  2020-04-28 16:45:38 DEBUG Base:50 - Web Driver Path: E:\chromedriver_win32\chromedriver.exe
+  2020-04-28 16:45:47 DEBUG Base:17 - IN Customer page..com.invoicingyou.qa.pages.CustomersPage
+  2020-04-28 16:45:47 DEBUG CustomerPageTest:37 - In Setup..
+  2020-04-28 16:45:47 INFO  Base:46 - Selected Browser:chrome
+  2020-04-28 16:45:47 DEBUG Base:48 - Web Driver Location: E:/chromedriver_win32/chromedriver.exe
+  2020-04-28 16:45:47 DEBUG Base:50 - Web Driver Path: E:\chromedriver_win32\chromedriver.exe
+  2020-04-28 16:46:04 DEBUG Base:17 - IN Customer page..com.invoicingyou.qa.pages.CustomersPage
+  2020-04-28 16:46:04 INFO  DashboardPage:17 - Dashboard landed. com.invoicingyou.qa.pages.DashboardPage
+  2020-04-28 16:46:04 DEBUG CustomerPageTest:46 - Logging in...
+  2020-04-28 16:46:04 INFO  ExcelFileUtility:23 - Test Data File Path: E:/Invoicing You_Java/TestData/InvoicingYouData.xlsx
+  2020-04-28 16:46:04 DEBUG ExcelFileUtility:25 - File Size: 10600
+  2020-04-28 16:46:04 INFO  ExcelFileUtility:36 - Sheet Name:Login
+  2020-04-28 16:46:04 DEBUG LogInPage:36 - Login credential: work+payeltest@tier5.in/123456
+  2020-04-28 16:46:05 INFO  LogInPage:41 - Login button clicked
+  2020-04-28 16:46:05 INFO  LogInPage:46 - Riderecting to dashboard page
+  2020-04-28 16:46:05 INFO  DashboardPage:17 - Dashboard landed. com.invoicingyou.qa.pages.DashboardPage
+  2020-04-28 16:46:15 DEBUG CustomerPageTest:56 - Open Customer page
+  2020-04-28 16:46:15 DEBUG Base:17 - IN Customer page..com.invoicingyou.qa.pages.CustomersPage
+  2020-04-28 16:46:15 INFO  ExcelFileUtility:23 - Test Data File Path: E:/Invoicing You_Java/TestData/InvoicingYouData.xlsx
+  2020-04-28 16:46:15 DEBUG ExcelFileUtility:25 - File Size: 10600
+  2020-04-28 16:46:15 INFO  ExcelFileUtility:36 - Sheet Name:Customers
+  2020-04-28 16:46:28 DEBUG DashboardPageTest:43 - Logging in...
+  2020-04-28 16:46:28 INFO  ExcelFileUtility:23 - Test Data File Path: E:/Invoicing You_Java/TestData/InvoicingYouData.xlsx
+  2020-04-28 16:46:28 DEBUG ExcelFileUtility:25 - File Size: 10600
+  2020-04-28 16:46:28 INFO  ExcelFileUtility:36 - Sheet Name:Login
+  2020-04-28 16:46:28 DEBUG LogInPage:36 - Login credential: work+payeltest@tier5.in/123456
+  2020-04-28 16:46:33 INFO  LogInPage:41 - Login button clicked
+  2020-04-28 16:46:33 INFO  LogInPage:46 - Riderecting to dashboard page
+  2020-04-28 16:46:33 INFO  DashboardPage:17 - Dashboard landed. com.invoicingyou.qa.pages.DashboardPage
+  2020-04-28 16:48:37 DEBUG DashboardPageTest:34 - In Setup..
+  2020-04-28 16:48:37 INFO  Base:46 - Selected Browser:chrome
+  2020-04-28 16:48:37 DEBUG Base:48 - Web Driver Location: E:/chromedriver_win32/chromedriver.exe
+  2020-04-28 16:48:37 DEBUG Base:50 - Web Driver Path: E:\chromedriver_win32\chromedriver.exe
+  2020-04-28 16:49:23 DEBUG DashboardPageTest:34 - In Setup..
+  2020-04-28 16:49:23 INFO  Base:46 - Selected Browser:chrome
+  2020-04-28 16:49:23 DEBUG Base:48 - Web Driver Location: E:/chromedriver_win32/chromedriver.exe
+  2020-04-28 16:49:23 DEBUG Base:50 - Web Driver Path: E:\chromedriver_win32\chromedriver.exe
+  2020-04-28 16:49:30 DEBUG Base:17 - IN Customer page..com.invoicingyou.qa.pages.CustomersPage
+  2020-04-28 16:49:30 DEBUG CustomerPageTest:37 - In Setup..
+  2020-04-28 16:49:30 INFO  Base:46 - Selected Browser:chrome
+  2020-04-28 16:49:30 DEBUG Base:48 - Web Driver Location: E:/chromedriver_win32/chromedriver.exe
+  2020-04-28 16:49:30 DEBUG Base:50 - Web Driver Path: E:\chromedriver_win32\chromedriver.exe
+  2020-04-28 16:49:37 DEBUG Base:17 - IN Customer page..com.invoicingyou.qa.pages.CustomersPage
+  2020-04-28 16:49:37 INFO  DashboardPage:17 - Dashboard landed. com.invoicingyou.qa.pages.DashboardPage
+  2020-04-28 16:49:37 DEBUG CustomerPageTest:46 - Logging in...
+  2020-04-28 16:49:37 INFO  ExcelFileUtility:23 - Test Data File Path: E:/Invoicing You_Java/TestData/InvoicingYouData.xlsx
+  2020-04-28 16:49:37 DEBUG ExcelFileUtility:25 - File Size: 10600
+  2020-04-28 16:49:38 INFO  ExcelFileUtility:36 - Sheet Name:Login
+  2020-04-28 16:49:38 DEBUG LogInPage:36 - Login credential: work+payeltest@tier5.in/123456
+  2020-04-28 16:49:38 INFO  LogInPage:41 - Login button clicked
+  2020-04-28 16:49:38 INFO  LogInPage:46 - Riderecting to dashboard page
+  2020-04-28 16:49:38 INFO  DashboardPage:17 - Dashboard landed. com.invoicingyou.qa.pages.DashboardPage
+  2020-04-28 16:49:48 DEBUG CustomerPageTest:56 - Open Customer page
+  2020-04-28 16:49:49 DEBUG Base:17 - IN Customer page..com.invoicingyou.qa.pages.CustomersPage
+  2020-04-28 16:49:49 INFO  ExcelFileUtility:23 - Test Data File Path: E:/Invoicing You_Java/TestData/InvoicingYouData.xlsx
+  2020-04-28 16:49:49 DEBUG ExcelFileUtility:25 - File Size: 10600
+  2020-04-28 16:49:49 INFO  ExcelFileUtility:36 - Sheet Name:Customers
+  2020-04-28 16:50:01 DEBUG DashboardPageTest:43 - Logging in...
+  2020-04-28 16:50:01 INFO  ExcelFileUtility:23 - Test Data File Path: E:/Invoicing You_Java/TestData/InvoicingYouData.xlsx
+  2020-04-28 16:50:01 DEBUG ExcelFileUtility:25 - File Size: 10600
+  2020-04-28 16:50:01 INFO  ExcelFileUtility:36 - Sheet Name:Login
+  2020-04-28 16:50:01 DEBUG LogInPage:36 - Login credential: work+payeltest@tier5.in/123456
+  2020-04-28 16:50:02 INFO  LogInPage:41 - Login button clicked
+  2020-04-28 16:50:02 INFO  LogInPage:46 - Riderecting to dashboard page
+  2020-04-28 16:50:02 INFO  DashboardPage:17 - Dashboard landed. com.invoicingyou.qa.pages.DashboardPage
+  2020-04-28 16:50:07 DEBUG DashboardPageTest:53 - Open Customer page
+  2020-04-28 16:51:10 DEBUG DashboardPageTest:34 - In Setup..
+  2020-04-28 16:51:10 INFO  Base:46 - Selected Browser:chrome
+  2020-04-28 16:51:10 DEBUG Base:48 - Web Driver Location: E:/chromedriver_win32/chromedriver.exe
+  2020-04-28 16:51:10 DEBUG Base:50 - Web Driver Path: E:\chromedriver_win32\chromedriver.exe
+  2020-04-28 16:51:18 DEBUG Base:17 - IN Customer page..com.invoicingyou.qa.pages.CustomersPage
+  2020-04-28 16:51:18 DEBUG CustomerPageTest:37 - In Setup..
+  2020-04-28 16:51:18 INFO  Base:46 - Selected Browser:chrome
+  2020-04-28 16:51:18 DEBUG Base:48 - Web Driver Location: E:/chromedriver_win32/chromedriver.exe
+  2020-04-28 16:51:18 DEBUG Base:50 - Web Driver Path: E:\chromedriver_win32\chromedriver.exe
+  2020-04-28 16:51:25 DEBUG Base:17 - IN Customer page..com.invoicingyou.qa.pages.CustomersPage
+  2020-04-28 16:51:25 INFO  DashboardPage:17 - Dashboard landed. com.invoicingyou.qa.pages.DashboardPage
+  2020-04-28 16:51:25 DEBUG CustomerPageTest:46 - Logging in...
+  2020-04-28 16:51:25 INFO  ExcelFileUtility:23 - Test Data File Path: E:/Invoicing You_Java/TestData/InvoicingYouData.xlsx
+  2020-04-28 16:51:25 DEBUG ExcelFileUtility:25 - File Size: 10600
+  2020-04-28 16:51:26 INFO  ExcelFileUtility:36 - Sheet Name:Login
+  2020-04-28 16:51:26 DEBUG LogInPage:36 - Login credential: work+payeltest@tier5.in/123456
+  2020-04-28 16:51:26 INFO  LogInPage:41 - Login button clicked
+  2020-04-28 16:51:26 INFO  LogInPage:46 - Riderecting to dashboard page
+  2020-04-28 16:51:26 INFO  DashboardPage:17 - Dashboard landed. com.invoicingyou.qa.pages.DashboardPage
+  2020-04-28 16:51:36 DEBUG CustomerPageTest:56 - Open Customer page
+  2020-04-28 16:51:36 DEBUG Base:17 - IN Customer page..com.invoicingyou.qa.pages.CustomersPage
+  2020-04-28 16:51:36 INFO  ExcelFileUtility:23 - Test Data File Path: E:/Invoicing You_Java/TestData/InvoicingYouData.xlsx
+  2020-04-28 16:51:36 DEBUG ExcelFileUtility:25 - File Size: 10600
+  2020-04-28 16:51:37 INFO  ExcelFileUtility:36 - Sheet Name:Customers
+  2020-04-28 16:51:49 DEBUG DashboardPageTest:43 - Logging in...
+  2020-04-28 16:51:49 INFO  ExcelFileUtility:23 - Test Data File Path: E:/Invoicing You_Java/TestData/InvoicingYouData.xlsx
+  2020-04-28 16:51:49 DEBUG ExcelFileUtility:25 - File Size: 10600
+  2020-04-28 16:51:49 INFO  ExcelFileUtility:36 - Sheet Name:Login
+  2020-04-28 16:51:49 DEBUG LogInPage:36 - Login credential: work+payeltest@tier5.in/123456
+  2020-04-28 16:51:49 INFO  LogInPage:41 - Login button clicked
+  2020-04-28 16:51:49 INFO  LogInPage:46 - Riderecting to dashboard page
+  2020-04-28 16:51:49 INFO  DashboardPage:17 - Dashboard landed. com.invoicingyou.qa.pages.DashboardPage
+  2020-04-28 16:51:54 DEBUG DashboardPageTest:53 - Open Customer page
+  2020-04-28 16:58:18 DEBUG DashboardPageTest:33 - In Setup..
+  2020-04-28 16:58:18 DEBUG Base:17 - IN Customer page..com.invoicingyou.qa.pages.CustomersPage
+  2020-04-28 16:58:18 INFO  DashboardPage:17 - Dashboard landed. com.invoicingyou.qa.pages.DashboardPage
+  2020-04-28 16:58:18 DEBUG CustomerPageTest:37 - In Setup..
+  2020-04-28 16:58:18 INFO  Base:46 - Selected Browser:chrome
+  2020-04-28 16:58:18 DEBUG Base:48 - Web Driver Location: E:/chromedriver_win32/chromedriver.exe
+  2020-04-28 16:58:18 DEBUG Base:50 - Web Driver Path: E:\chromedriver_win32\chromedriver.exe
+  2020-04-28 16:58:27 DEBUG Base:17 - IN Customer page..com.invoicingyou.qa.pages.CustomersPage
+  2020-04-28 16:58:27 INFO  DashboardPage:17 - Dashboard landed. com.invoicingyou.qa.pages.DashboardPage
+  2020-04-28 16:58:27 DEBUG CustomerPageTest:46 - Logging in...
+  2020-04-28 16:58:27 INFO  ExcelFileUtility:23 - Test Data File Path: E:/Invoicing You_Java/TestData/InvoicingYouData.xlsx
+  2020-04-28 16:58:27 DEBUG ExcelFileUtility:25 - File Size: 10600
+  2020-04-28 16:58:28 INFO  ExcelFileUtility:36 - Sheet Name:Login
+  2020-04-28 16:58:28 DEBUG LogInPage:36 - Login credential: work+payeltest@tier5.in/123456
+  2020-04-28 16:58:28 INFO  LogInPage:41 - Login button clicked
+  2020-04-28 16:58:28 INFO  LogInPage:46 - Riderecting to dashboard page
+  2020-04-28 16:58:28 INFO  DashboardPage:17 - Dashboard landed. com.invoicingyou.qa.pages.DashboardPage
+  2020-04-28 16:58:38 DEBUG CustomerPageTest:56 - Open Customer page
+  2020-04-28 16:58:38 DEBUG Base:17 - IN Customer page..com.invoicingyou.qa.pages.CustomersPage
+  2020-04-28 16:58:38 INFO  ExcelFileUtility:23 - Test Data File Path: E:/Invoicing You_Java/TestData/InvoicingYouData.xlsx
+  2020-04-28 16:58:38 DEBUG ExcelFileUtility:25 - File Size: 10600
+  2020-04-28 16:58:39 INFO  ExcelFileUtility:36 - Sheet Name:Customers
+  2020-04-28 16:58:51 DEBUG DashboardPageTest:42 - Logging in...
+  2020-04-28 16:58:51 INFO  Base:46 - Selected Browser:chrome
+  2020-04-28 16:58:51 DEBUG Base:48 - Web Driver Location: E:/chromedriver_win32/chromedriver.exe
+  2020-04-28 16:58:51 DEBUG Base:50 - Web Driver Path: E:\chromedriver_win32\chromedriver.exe
+  2020-04-28 16:58:57 INFO  ExcelFileUtility:23 - Test Data File Path: E:/Invoicing You_Java/TestData/InvoicingYouData.xlsx
+  2020-04-28 16:58:57 DEBUG ExcelFileUtility:25 - File Size: 10600
+  2020-04-28 16:58:57 INFO  ExcelFileUtility:36 - Sheet Name:Login
+  2020-04-28 16:58:57 DEBUG LogInPage:36 - Login credential: work+payeltest@tier5.in/123456
+  2020-04-28 16:58:57 ERROR LogInPage:44 - [Ljava.lang.StackTraceElement;@7e3f95fe
+  2020-04-28 16:58:57 INFO  LogInPage:46 - Riderecting to dashboard page
+  2020-04-28 16:58:57 INFO  DashboardPage:17 - Dashboard landed. com.invoicingyou.qa.pages.DashboardPage
+  2020-04-28 16:59:02 DEBUG DashboardPageTest:53 - Open Customer page
+  2020-04-28 17:00:00 DEBUG DashboardPageTest:33 - In Setup..
+  2020-04-28 17:00:00 DEBUG Base:17 - IN Customer page..com.invoicingyou.qa.pages.CustomersPage
+  2020-04-28 17:00:00 INFO  DashboardPage:17 - Dashboard landed. com.invoicingyou.qa.pages.DashboardPage
+  2020-04-28 17:00:00 DEBUG CustomerPageTest:37 - In Setup..
+  2020-04-28 17:00:00 INFO  Base:46 - Selected Browser:chrome
+  2020-04-28 17:00:00 DEBUG Base:48 - Web Driver Location: E:/chromedriver_win32/chromedriver.exe
+  2020-04-28 17:00:00 DEBUG Base:50 - Web Driver Path: E:\chromedriver_win32\chromedriver.exe
+  2020-04-28 17:00:08 DEBUG Base:17 - IN Customer page..com.invoicingyou.qa.pages.CustomersPage
+  2020-04-28 17:00:08 INFO  DashboardPage:17 - Dashboard landed. com.invoicingyou.qa.pages.DashboardPage
+  2020-04-28 17:00:08 DEBUG CustomerPageTest:46 - Logging in...
+  2020-04-28 17:00:08 INFO  ExcelFileUtility:23 - Test Data File Path: E:/Invoicing You_Java/TestData/InvoicingYouData.xlsx
+  2020-04-28 17:00:08 DEBUG ExcelFileUtility:25 - File Size: 10600
+  2020-04-28 17:00:09 INFO  ExcelFileUtility:36 - Sheet Name:Login
+  2020-04-28 17:00:09 DEBUG LogInPage:36 - Login credential: work+payeltest@tier5.in/123456
+  2020-04-28 17:00:09 INFO  LogInPage:41 - Login button clicked
+  2020-04-28 17:00:09 INFO  LogInPage:46 - Riderecting to dashboard page
+  2020-04-28 17:00:09 INFO  DashboardPage:17 - Dashboard landed. com.invoicingyou.qa.pages.DashboardPage
+  2020-04-28 17:00:19 DEBUG CustomerPageTest:56 - Open Customer page
+  2020-04-28 17:00:19 DEBUG Base:17 - IN Customer page..com.invoicingyou.qa.pages.CustomersPage
+  2020-04-28 17:00:19 INFO  ExcelFileUtility:23 - Test Data File Path: E:/Invoicing You_Java/TestData/InvoicingYouData.xlsx
+  2020-04-28 17:00:19 DEBUG ExcelFileUtility:25 - File Size: 10600
+  2020-04-28 17:00:19 INFO  ExcelFileUtility:36 - Sheet Name:Customers
+  2020-04-28 17:00:32 DEBUG DashboardPageTest:42 - Logging in...
+  2020-04-28 17:00:32 INFO  Base:46 - Selected Browser:chrome
+  2020-04-28 17:00:32 DEBUG Base:48 - Web Driver Location: E:/chromedriver_win32/chromedriver.exe
+  2020-04-28 17:00:32 DEBUG Base:50 - Web Driver Path: E:\chromedriver_win32\chromedriver.exe
+  2020-04-28 17:00:38 INFO  ExcelFileUtility:23 - Test Data File Path: E:/Invoicing You_Java/TestData/InvoicingYouData.xlsx
+  2020-04-28 17:00:38 DEBUG ExcelFileUtility:25 - File Size: 10600
+  2020-04-28 17:00:38 INFO  ExcelFileUtility:36 - Sheet Name:Login
+  2020-04-28 17:00:38 DEBUG LogInPage:36 - Login credential: work+payeltest@tier5.in/123456
+  2020-04-28 17:00:38 ERROR LogInPage:44 - [Ljava.lang.StackTraceElement;@24bdb479
+  2020-04-28 17:00:38 INFO  LogInPage:46 - Riderecting to dashboard page
+  2020-04-28 17:00:38 INFO  DashboardPage:17 - Dashboard landed. com.invoicingyou.qa.pages.DashboardPage
+  2020-04-28 17:00:43 DEBUG DashboardPageTest:53 - Open Customer page
+  2020-04-28 17:01:44 DEBUG DashboardPageTest:33 - In Setup..
+  2020-04-28 17:01:44 DEBUG Base:17 - IN Customer page..com.invoicingyou.qa.pages.CustomersPage
+  2020-04-28 17:01:44 INFO  DashboardPage:17 - Dashboard landed. com.invoicingyou.qa.pages.DashboardPage
+  2020-04-28 17:01:44 DEBUG CustomerPageTest:37 - In Setup..
+  2020-04-28 17:01:44 INFO  Base:46 - Selected Browser:chrome
+  2020-04-28 17:01:44 DEBUG Base:48 - Web Driver Location: E:/chromedriver_win32/chromedriver.exe
+  2020-04-28 17:01:44 DEBUG Base:50 - Web Driver Path: E:\chromedriver_win32\chromedriver.exe
+  2020-04-28 17:01:52 DEBUG Base:17 - IN Customer page..com.invoicingyou.qa.pages.CustomersPage
+  2020-04-28 17:01:52 INFO  DashboardPage:17 - Dashboard landed. com.invoicingyou.qa.pages.DashboardPage
+  2020-04-28 17:01:52 DEBUG CustomerPageTest:46 - Logging in...
+  2020-04-28 17:01:52 INFO  ExcelFileUtility:23 - Test Data File Path: E:/Invoicing You_Java/TestData/InvoicingYouData.xlsx
+  2020-04-28 17:01:52 DEBUG ExcelFileUtility:25 - File Size: 10600
+  2020-04-28 17:01:53 INFO  ExcelFileUtility:36 - Sheet Name:Login
+  2020-04-28 17:01:53 DEBUG LogInPage:36 - Login credential: work+payeltest@tier5.in/123456
+  2020-04-28 17:01:53 INFO  LogInPage:41 - Login button clicked
+  2020-04-28 17:01:53 INFO  LogInPage:46 - Riderecting to dashboard page
+  2020-04-28 17:01:53 INFO  DashboardPage:17 - Dashboard landed. com.invoicingyou.qa.pages.DashboardPage
+  2020-04-28 17:02:03 DEBUG CustomerPageTest:56 - Open Customer page
+  2020-04-28 17:02:04 DEBUG Base:17 - IN Customer page..com.invoicingyou.qa.pages.CustomersPage
+  2020-04-28 17:02:04 INFO  ExcelFileUtility:23 - Test Data File Path: E:/Invoicing You_Java/TestData/InvoicingYouData.xlsx
+  2020-04-28 17:02:04 DEBUG ExcelFileUtility:25 - File Size: 10600
+  2020-04-28 17:02:04 INFO  ExcelFileUtility:36 - Sheet Name:Customers
+  2020-04-28 17:02:16 DEBUG DashboardPageTest:42 - Logging in...
+  2020-04-28 17:02:16 INFO  Base:46 - Selected Browser:chrome
+  2020-04-28 17:02:16 DEBUG Base:48 - Web Driver Location: E:/chromedriver_win32/chromedriver.exe
+  2020-04-28 17:02:16 DEBUG Base:50 - Web Driver Path: E:\chromedriver_win32\chromedriver.exe
+  2020-04-28 17:02:28 INFO  ExcelFileUtility:23 - Test Data File Path: E:/Invoicing You_Java/TestData/InvoicingYouData.xlsx
+  2020-04-28 17:02:28 DEBUG ExcelFileUtility:25 - File Size: 10600
+  2020-04-28 17:02:28 INFO  ExcelFileUtility:36 - Sheet Name:Login
+  2020-04-28 17:02:28 DEBUG LogInPage:36 - Login credential: work+payeltest@tier5.in/123456
+  2020-04-28 17:02:28 ERROR LogInPage:44 - [Ljava.lang.StackTraceElement;@24bdb479
+  2020-04-28 17:02:28 INFO  LogInPage:46 - Riderecting to dashboard page
+  2020-04-28 17:02:28 INFO  DashboardPage:17 - Dashboard landed. com.invoicingyou.qa.pages.DashboardPage
+  2020-04-28 17:02:33 DEBUG DashboardPageTest:54 - Open Customer page
+  2020-04-28 17:04:28 DEBUG DashboardPageTest:33 - In Setup..
+  2020-04-28 17:04:28 INFO  Base:46 - Selected Browser:chrome
+  2020-04-28 17:04:28 DEBUG Base:48 - Web Driver Location: E:/chromedriver_win32/chromedriver.exe
+  2020-04-28 17:04:28 DEBUG Base:50 - Web Driver Path: E:\chromedriver_win32\chromedriver.exe
+  2020-04-28 17:04:35 DEBUG Base:17 - IN Customer page..com.invoicingyou.qa.pages.CustomersPage
+  2020-04-28 17:04:35 INFO  DashboardPage:17 - Dashboard landed. com.invoicingyou.qa.pages.DashboardPage
+  2020-04-28 17:04:35 DEBUG CustomerPageTest:37 - In Setup..
+  2020-04-28 17:04:35 INFO  Base:46 - Selected Browser:chrome
+  2020-04-28 17:04:35 DEBUG Base:48 - Web Driver Location: E:/chromedriver_win32/chromedriver.exe
+  2020-04-28 17:04:35 DEBUG Base:50 - Web Driver Path: E:\chromedriver_win32\chromedriver.exe
+  2020-04-28 17:04:42 DEBUG Base:17 - IN Customer page..com.invoicingyou.qa.pages.CustomersPage
+  2020-04-28 17:04:42 INFO  DashboardPage:17 - Dashboard landed. com.invoicingyou.qa.pages.DashboardPage
+  2020-04-28 17:04:42 DEBUG CustomerPageTest:46 - Logging in...
+  2020-04-28 17:04:42 INFO  ExcelFileUtility:23 - Test Data File Path: E:/Invoicing You_Java/TestData/InvoicingYouData.xlsx
+  2020-04-28 17:04:42 DEBUG ExcelFileUtility:25 - File Size: 10600
+  2020-04-28 17:04:43 INFO  ExcelFileUtility:36 - Sheet Name:Login
+  2020-04-28 17:04:43 DEBUG LogInPage:36 - Login credential: work+payeltest@tier5.in/123456
+  2020-04-28 17:04:43 INFO  LogInPage:41 - Login button clicked
+  2020-04-28 17:04:43 INFO  LogInPage:46 - Riderecting to dashboard page
+  2020-04-28 17:04:43 INFO  DashboardPage:17 - Dashboard landed. com.invoicingyou.qa.pages.DashboardPage
+  2020-04-28 17:04:53 DEBUG CustomerPageTest:56 - Open Customer page
+  2020-04-28 17:04:54 DEBUG Base:17 - IN Customer page..com.invoicingyou.qa.pages.CustomersPage
+  2020-04-28 17:04:54 INFO  ExcelFileUtility:23 - Test Data File Path: E:/Invoicing You_Java/TestData/InvoicingYouData.xlsx
+  2020-04-28 17:04:54 DEBUG ExcelFileUtility:25 - File Size: 10600
+  2020-04-28 17:04:54 INFO  ExcelFileUtility:36 - Sheet Name:Customers
+  2020-04-28 17:05:06 DEBUG DashboardPageTest:42 - Logging in...
+  2020-04-28 17:05:06 INFO  Base:46 - Selected Browser:chrome
+  2020-04-28 17:05:06 DEBUG Base:48 - Web Driver Location: E:/chromedriver_win32/chromedriver.exe
+  2020-04-28 17:05:06 DEBUG Base:50 - Web Driver Path: E:\chromedriver_win32\chromedriver.exe
+  2020-04-28 17:05:18 INFO  ExcelFileUtility:23 - Test Data File Path: E:/Invoicing You_Java/TestData/InvoicingYouData.xlsx
+  2020-04-28 17:05:18 DEBUG ExcelFileUtility:25 - File Size: 10600
+  2020-04-28 17:05:18 INFO  ExcelFileUtility:36 - Sheet Name:Login
+  2020-04-28 17:05:18 DEBUG LogInPage:36 - Login credential: work+payeltest@tier5.in/123456
+  2020-04-28 17:05:18 INFO  LogInPage:41 - Login button clicked
+  2020-04-28 17:05:18 INFO  LogInPage:46 - Riderecting to dashboard page
+  2020-04-28 17:05:18 INFO  DashboardPage:17 - Dashboard landed. com.invoicingyou.qa.pages.DashboardPage
+  2020-04-28 17:05:23 DEBUG DashboardPageTest:54 - Open Customer page
+  2020-04-28 17:06:52 DEBUG DashboardPageTest:33 - In Setup..
+  2020-04-28 17:06:52 INFO  Base:46 - Selected Browser:chrome
+  2020-04-28 17:06:52 DEBUG Base:48 - Web Driver Location: E:/chromedriver_win32/chromedriver.exe
+  2020-04-28 17:06:52 DEBUG Base:50 - Web Driver Path: E:\chromedriver_win32\chromedriver.exe
+  2020-04-28 17:07:00 DEBUG Base:17 - IN Customer page..com.invoicingyou.qa.pages.CustomersPage
+  2020-04-28 17:07:00 INFO  DashboardPage:17 - Dashboard landed. com.invoicingyou.qa.pages.DashboardPage
+  2020-04-28 17:07:00 DEBUG DashboardPageTest:42 - Logging in...
+  2020-04-28 17:07:00 INFO  ExcelFileUtility:23 - Test Data File Path: E:/Invoicing You_Java/TestData/InvoicingYouData.xlsx
+  2020-04-28 17:07:00 DEBUG ExcelFileUtility:25 - File Size: 10600
+  2020-04-28 17:07:00 INFO  ExcelFileUtility:36 - Sheet Name:Login
+  2020-04-28 17:07:00 DEBUG LogInPage:36 - Login credential: work+payeltest@tier5.in/123456
+  2020-04-28 17:07:01 INFO  LogInPage:41 - Login button clicked
+  2020-04-28 17:07:01 INFO  LogInPage:46 - Riderecting to dashboard page
+  2020-04-28 17:07:01 INFO  DashboardPage:17 - Dashboard landed. com.invoicingyou.qa.pages.DashboardPage
+  2020-04-28 17:07:06 DEBUG DashboardPageTest:54 - Open Customer page
+  2020-04-28 17:07:06 DEBUG Base:17 - IN Customer page..com.invoicingyou.qa.pages.CustomersPage
+  2020-04-28 17:08:49 DEBUG DashboardPageTest:33 - In Setup..
+  2020-04-28 17:08:49 INFO  Base:46 - Selected Browser:chrome
+  2020-04-28 17:08:49 DEBUG Base:48 - Web Driver Location: E:/chromedriver_win32/chromedriver.exe
+  2020-04-28 17:08:49 DEBUG Base:50 - Web Driver Path: E:\chromedriver_win32\chromedriver.exe
+  2020-04-28 17:08:57 DEBUG Base:17 - IN Customer page..com.invoicingyou.qa.pages.CustomersPage
+  2020-04-28 17:08:57 INFO  DashboardPage:17 - Dashboard landed. com.invoicingyou.qa.pages.DashboardPage
+  2020-04-28 17:08:57 DEBUG CustomerPageTest:37 - In Setup..
+  2020-04-28 17:08:57 INFO  Base:46 - Selected Browser:chrome
+  2020-04-28 17:08:57 DEBUG Base:48 - Web Driver Location: E:/chromedriver_win32/chromedriver.exe
+  2020-04-28 17:08:57 DEBUG Base:50 - Web Driver Path: E:\chromedriver_win32\chromedriver.exe
+  2020-04-28 17:09:05 DEBUG Base:17 - IN Customer page..com.invoicingyou.qa.pages.CustomersPage
+  2020-04-28 17:09:05 INFO  DashboardPage:17 - Dashboard landed. com.invoicingyou.qa.pages.DashboardPage
+  2020-04-28 17:09:05 DEBUG CustomerPageTest:46 - Logging in...
+  2020-04-28 17:09:05 INFO  ExcelFileUtility:23 - Test Data File Path: E:/Invoicing You_Java/TestData/InvoicingYouData.xlsx
+  2020-04-28 17:09:05 DEBUG ExcelFileUtility:25 - File Size: 10600
+  2020-04-28 17:09:06 INFO  ExcelFileUtility:36 - Sheet Name:Login
+  2020-04-28 17:09:06 DEBUG LogInPage:36 - Login credential: work+payeltest@tier5.in/123456
+  2020-04-28 17:09:06 INFO  LogInPage:41 - Login button clicked
+  2020-04-28 17:09:06 INFO  LogInPage:46 - Riderecting to dashboard page
+  2020-04-28 17:09:06 INFO  DashboardPage:17 - Dashboard landed. com.invoicingyou.qa.pages.DashboardPage
+  2020-04-28 17:09:16 DEBUG CustomerPageTest:56 - Open Customer page
+  2020-04-28 17:09:16 DEBUG Base:17 - IN Customer page..com.invoicingyou.qa.pages.CustomersPage
+  2020-04-28 17:09:16 INFO  ExcelFileUtility:23 - Test Data File Path: E:/Invoicing You_Java/TestData/InvoicingYouData.xlsx
+  2020-04-28 17:09:16 DEBUG ExcelFileUtility:25 - File Size: 10600
+  2020-04-28 17:09:16 INFO  ExcelFileUtility:36 - Sheet Name:Customers
+  2020-04-28 17:09:29 DEBUG DashboardPageTest:42 - Logging in...
+  2020-04-28 17:09:29 INFO  ExcelFileUtility:23 - Test Data File Path: E:/Invoicing You_Java/TestData/InvoicingYouData.xlsx
+  2020-04-28 17:09:29 DEBUG ExcelFileUtility:25 - File Size: 10600
+  2020-04-28 17:09:29 INFO  ExcelFileUtility:36 - Sheet Name:Login
+  2020-04-28 17:09:29 DEBUG LogInPage:36 - Login credential: work+payeltest@tier5.in/123456
+  2020-04-28 17:09:29 INFO  LogInPage:41 - Login button clicked
+  2020-04-28 17:09:29 INFO  LogInPage:46 - Riderecting to dashboard page
+  2020-04-28 17:09:29 INFO  DashboardPage:17 - Dashboard landed. com.invoicingyou.qa.pages.DashboardPage
+  2020-04-28 17:09:34 DEBUG DashboardPageTest:54 - Open Customer page
+  2020-04-28 17:11:49 DEBUG CustomerPageTest:37 - In Setup..
+  2020-04-28 17:11:49 INFO  Base:46 - Selected Browser:chrome
+  2020-04-28 17:11:49 DEBUG Base:48 - Web Driver Location: E:/chromedriver_win32/chromedriver.exe
+  2020-04-28 17:11:49 DEBUG Base:50 - Web Driver Path: E:\chromedriver_win32\chromedriver.exe
+  2020-04-28 17:11:58 DEBUG Base:17 - IN Customer page..com.invoicingyou.qa.pages.CustomersPage
+  2020-04-28 17:11:58 INFO  DashboardPage:17 - Dashboard landed. com.invoicingyou.qa.pages.DashboardPage
+  2020-04-28 17:11:58 DEBUG CustomerPageTest:46 - Logging in...
+  2020-04-28 17:11:58 INFO  ExcelFileUtility:23 - Test Data File Path: E:/Invoicing You_Java/TestData/InvoicingYouData.xlsx
+  2020-04-28 17:11:58 DEBUG ExcelFileUtility:25 - File Size: 10600
+  2020-04-28 17:11:59 INFO  ExcelFileUtility:36 - Sheet Name:Login
+  2020-04-28 17:11:59 DEBUG LogInPage:36 - Login credential: work+payeltest@tier5.in/123456
+  2020-04-28 17:11:59 INFO  LogInPage:41 - Login button clicked
+  2020-04-28 17:11:59 INFO  LogInPage:46 - Riderecting to dashboard page
+  2020-04-28 17:11:59 INFO  DashboardPage:17 - Dashboard landed. com.invoicingyou.qa.pages.DashboardPage
+  2020-04-28 17:12:09 DEBUG CustomerPageTest:56 - Open Customer page
+  2020-04-28 17:12:09 DEBUG Base:17 - IN Customer page..com.invoicingyou.qa.pages.CustomersPage
+  2020-04-28 17:12:09 INFO  ExcelFileUtility:23 - Test Data File Path: E:/Invoicing You_Java/TestData/InvoicingYouData.xlsx
+  2020-04-28 17:12:09 DEBUG ExcelFileUtility:25 - File Size: 10600
+  2020-04-28 17:12:09 INFO  ExcelFileUtility:36 - Sheet Name:Customers
+  2020-04-28 17:12:22 DEBUG DashboardPageTest:33 - In  Setup..
+  2020-04-28 17:12:22 INFO  Base:46 - Selected Browser:chrome
+  2020-04-28 17:12:22 DEBUG Base:48 - Web Driver Location: E:/chromedriver_win32/chromedriver.exe
+  2020-04-28 17:12:22 DEBUG Base:50 - Web Driver Path: E:\chromedriver_win32\chromedriver.exe
+  2020-04-28 17:12:28 DEBUG Base:17 - IN Customer page..com.invoicingyou.qa.pages.CustomersPage
+  2020-04-28 17:12:28 INFO  DashboardPage:17 - Dashboard landed. com.invoicingyou.qa.pages.DashboardPage
+  2020-04-28 17:12:28 DEBUG DashboardPageTest:43 - Logging in...
+  2020-04-28 17:12:28 INFO  ExcelFileUtility:23 - Test Data File Path: E:/Invoicing You_Java/TestData/InvoicingYouData.xlsx
+  2020-04-28 17:12:28 DEBUG ExcelFileUtility:25 - File Size: 10600
+  2020-04-28 17:12:28 INFO  ExcelFileUtility:36 - Sheet Name:Login
+  2020-04-28 17:12:28 DEBUG LogInPage:36 - Login credential: work+payeltest@tier5.in/123456
+  2020-04-28 17:12:29 INFO  LogInPage:41 - Login button clicked
+  2020-04-28 17:12:29 INFO  LogInPage:46 - Riderecting to dashboard page
+  2020-04-28 17:12:29 INFO  DashboardPage:17 - Dashboard landed. com.invoicingyou.qa.pages.DashboardPage
+  2020-04-28 17:12:34 DEBUG DashboardPageTest:53 - Open Customer page
+  2020-04-28 17:12:34 DEBUG Base:17 - IN Customer page..com.invoicingyou.qa.pages.CustomersPage
+  2020-04-28 17:14:15 DEBUG CustomerPageTest:37 - In Setup..
+  2020-04-28 17:14:15 INFO  Base:46 - Selected Browser:chrome
+  2020-04-28 17:14:15 DEBUG Base:48 - Web Driver Location: E:/chromedriver_win32/chromedriver.exe
+  2020-04-28 17:14:15 DEBUG Base:50 - Web Driver Path: E:\chromedriver_win32\chromedriver.exe
+  2020-04-28 17:14:23 DEBUG Base:17 - IN Customer page..com.invoicingyou.qa.pages.CustomersPage
+  2020-04-28 17:14:23 INFO  DashboardPage:17 - Dashboard landed. com.invoicingyou.qa.pages.DashboardPage
+  2020-04-28 17:14:23 DEBUG CustomerPageTest:46 - Logging in...
+  2020-04-28 17:14:23 INFO  ExcelFileUtility:23 - Test Data File Path: E:/Invoicing You_Java/TestData/InvoicingYouData.xlsx
+  2020-04-28 17:14:23 DEBUG ExcelFileUtility:25 - File Size: 10600
+  2020-04-28 17:14:24 INFO  ExcelFileUtility:36 - Sheet Name:Login
+  2020-04-28 17:14:24 DEBUG LogInPage:36 - Login credential: work+payeltest@tier5.in/123456
+  2020-04-28 17:14:24 INFO  LogInPage:41 - Login button clicked
+  2020-04-28 17:14:24 INFO  LogInPage:46 - Riderecting to dashboard page
+  2020-04-28 17:14:24 INFO  DashboardPage:17 - Dashboard landed. com.invoicingyou.qa.pages.DashboardPage
+  2020-04-28 17:14:34 DEBUG CustomerPageTest:56 - Open Customer page
+  2020-04-28 17:14:35 DEBUG Base:17 - IN Customer page..com.invoicingyou.qa.pages.CustomersPage
+  2020-04-28 17:14:35 INFO  ExcelFileUtility:23 - Test Data File Path: E:/Invoicing You_Java/TestData/InvoicingYouData.xlsx
+  2020-04-28 17:14:35 DEBUG ExcelFileUtility:25 - File Size: 10600
+  2020-04-28 17:14:35 INFO  ExcelFileUtility:36 - Sheet Name:Customers
+  2020-04-28 17:14:47 DEBUG DashboardPageTest:33 - In  Setup..
+  2020-04-28 17:14:47 INFO  Base:46 - Selected Browser:chrome
+  2020-04-28 17:14:47 DEBUG Base:48 - Web Driver Location: E:/chromedriver_win32/chromedriver.exe
+  2020-04-28 17:14:47 DEBUG Base:50 - Web Driver Path: E:\chromedriver_win32\chromedriver.exe
+  2020-04-28 17:14:54 DEBUG Base:17 - IN Customer page..com.invoicingyou.qa.pages.CustomersPage
+  2020-04-28 17:14:54 INFO  DashboardPage:17 - Dashboard landed. com.invoicingyou.qa.pages.DashboardPage
+  2020-04-28 17:14:54 DEBUG DashboardPageTest:43 - Logging in...
+  2020-04-28 17:14:54 INFO  ExcelFileUtility:23 - Test Data File Path: E:/Invoicing You_Java/TestData/InvoicingYouData.xlsx
+  2020-04-28 17:14:54 DEBUG ExcelFileUtility:25 - File Size: 10600
+  2020-04-28 17:14:54 INFO  ExcelFileUtility:36 - Sheet Name:Login
+  2020-04-28 17:14:54 DEBUG LogInPage:36 - Login credential: work+payeltest@tier5.in/123456
+  2020-04-28 17:14:54 INFO  LogInPage:41 - Login button clicked
+  2020-04-28 17:14:54 INFO  LogInPage:46 - Riderecting to dashboard page
+  2020-04-28 17:14:54 INFO  DashboardPage:17 - Dashboard landed. com.invoicingyou.qa.pages.DashboardPage
+  2020-04-28 17:14:59 DEBUG DashboardPageTest:53 - Open Customer page
+  2020-04-28 17:14:59 DEBUG Base:17 - IN Customer page..com.invoicingyou.qa.pages.CustomersPage
+  2020-04-28 17:17:58 DEBUG CustomerPageTest:37 - In Setup..
+  2020-04-28 17:17:58 INFO  Base:46 - Selected Browser:chrome
+  2020-04-28 17:17:58 DEBUG Base:48 - Web Driver Location: E:/chromedriver_win32/chromedriver.exe
+  2020-04-28 17:17:58 DEBUG Base:50 - Web Driver Path: E:\chromedriver_win32\chromedriver.exe
+  2020-04-28 17:18:11 DEBUG Base:17 - IN Customer page..com.invoicingyou.qa.pages.CustomersPage
+  2020-04-28 17:18:11 INFO  DashboardPage:17 - Dashboard landed. com.invoicingyou.qa.pages.DashboardPage
+  2020-04-28 17:18:11 DEBUG CustomerPageTest:47 - Logging in...
+  2020-04-28 17:18:11 INFO  ExcelFileUtility:23 - Test Data File Path: E:/Invoicing You_Java/TestData/InvoicingYouData.xlsx
+  2020-04-28 17:18:11 DEBUG ExcelFileUtility:25 - File Size: 10600
+  2020-04-28 17:18:12 INFO  ExcelFileUtility:36 - Sheet Name:Login
+  2020-04-28 17:18:12 DEBUG LogInPage:36 - Login credential: work+payeltest@tier5.in/123456
+  2020-04-28 17:18:13 INFO  LogInPage:41 - Login button clicked
+  2020-04-28 17:18:13 INFO  LogInPage:46 - Riderecting to dashboard page
+  2020-04-28 17:18:13 INFO  DashboardPage:17 - Dashboard landed. com.invoicingyou.qa.pages.DashboardPage
+  2020-04-28 17:18:23 DEBUG CustomerPageTest:57 - Open Customer page
+  2020-04-28 17:18:27 INFO  ExcelFileUtility:23 - Test Data File Path: E:/Invoicing You_Java/TestData/InvoicingYouData.xlsx
+  2020-04-28 17:18:27 DEBUG ExcelFileUtility:25 - File Size: 10600
+  2020-04-28 17:18:27 INFO  ExcelFileUtility:36 - Sheet Name:Customers
+  2020-04-28 17:18:45 DEBUG DashboardPageTest:33 - In  Setup..
+  2020-04-28 17:18:45 INFO  Base:46 - Selected Browser:chrome
+  2020-04-28 17:18:45 DEBUG Base:48 - Web Driver Location: E:/chromedriver_win32/chromedriver.exe
+  2020-04-28 17:18:45 DEBUG Base:50 - Web Driver Path: E:\chromedriver_win32\chromedriver.exe
+  2020-04-28 17:18:59 ERROR Base:63 - [Ljava.lang.StackTraceElement;@22d6f11
+  2020-04-28 17:18:59 DEBUG Base:17 - IN Customer page..com.invoicingyou.qa.pages.CustomersPage
+  2020-04-28 17:18:59 INFO  DashboardPage:17 - Dashboard landed. com.invoicingyou.qa.pages.DashboardPage
+  2020-04-28 17:18:59 DEBUG DashboardPageTest:43 - Logging in...
+  2020-04-28 17:18:59 INFO  ExcelFileUtility:23 - Test Data File Path: E:/Invoicing You_Java/TestData/InvoicingYouData.xlsx
+  2020-04-28 17:18:59 DEBUG ExcelFileUtility:25 - File Size: 10600
+  2020-04-28 17:18:59 INFO  ExcelFileUtility:36 - Sheet Name:Login
+  2020-04-28 17:18:59 DEBUG LogInPage:36 - Login credential: work+payeltest@tier5.in/123456
+  2020-04-28 17:19:03 ERROR LogInPage:44 - [Ljava.lang.StackTraceElement;@2f9a01c1
+  2020-04-28 17:19:03 INFO  LogInPage:46 - Riderecting to dashboard page
+  2020-04-28 17:19:03 INFO  DashboardPage:17 - Dashboard landed. com.invoicingyou.qa.pages.DashboardPage
+  2020-04-28 17:19:08 DEBUG DashboardPageTest:53 - Open Customer page
+  2020-04-28 17:19:28 DEBUG CustomerPageTest:37 - In Setup..
+  2020-04-28 17:19:28 INFO  Base:46 - Selected Browser:chrome
+  2020-04-28 17:19:28 DEBUG Base:48 - Web Driver Location: E:/chromedriver_win32/chromedriver.exe
+  2020-04-28 17:19:28 DEBUG Base:50 - Web Driver Path: E:\chromedriver_win32\chromedriver.exe
+  2020-04-28 17:19:35 DEBUG Base:17 - IN Customer page..com.invoicingyou.qa.pages.CustomersPage
+  2020-04-28 17:19:35 INFO  DashboardPage:17 - Dashboard landed. com.invoicingyou.qa.pages.DashboardPage
+  2020-04-28 17:19:35 DEBUG CustomerPageTest:47 - Logging in...
+  2020-04-28 17:19:35 INFO  ExcelFileUtility:23 - Test Data File Path: E:/Invoicing You_Java/TestData/InvoicingYouData.xlsx
+  2020-04-28 17:19:35 DEBUG ExcelFileUtility:25 - File Size: 10600
+  2020-04-28 17:19:36 INFO  ExcelFileUtility:36 - Sheet Name:Login
+  2020-04-28 17:19:36 DEBUG LogInPage:36 - Login credential: work+payeltest@tier5.in/123456
+  2020-04-28 17:19:37 INFO  LogInPage:41 - Login button clicked
+  2020-04-28 17:19:37 INFO  LogInPage:46 - Riderecting to dashboard page
+  2020-04-28 17:19:37 INFO  DashboardPage:17 - Dashboard landed. com.invoicingyou.qa.pages.DashboardPage
+  2020-04-28 17:19:47 DEBUG CustomerPageTest:57 - Open Customer page
+  2020-04-28 17:19:47 DEBUG Base:17 - IN Customer page..com.invoicingyou.qa.pages.CustomersPage
+  2020-04-28 17:19:47 INFO  ExcelFileUtility:23 - Test Data File Path: E:/Invoicing You_Java/TestData/InvoicingYouData.xlsx
+  2020-04-28 17:19:47 DEBUG ExcelFileUtility:25 - File Size: 10600
+  2020-04-28 17:19:47 INFO  ExcelFileUtility:36 - Sheet Name:Customers
+  2020-04-28 17:19:59 DEBUG DashboardPageTest:33 - In  Setup..
+  2020-04-28 17:19:59 INFO  Base:46 - Selected Browser:chrome
+  2020-04-28 17:19:59 DEBUG Base:48 - Web Driver Location: E:/chromedriver_win32/chromedriver.exe
+  2020-04-28 17:19:59 DEBUG Base:50 - Web Driver Path: E:\chromedriver_win32\chromedriver.exe
+  2020-04-28 17:20:06 DEBUG Base:17 - IN Customer page..com.invoicingyou.qa.pages.CustomersPage
+  2020-04-28 17:20:06 INFO  DashboardPage:17 - Dashboard landed. com.invoicingyou.qa.pages.DashboardPage
+  2020-04-28 17:20:06 DEBUG DashboardPageTest:43 - Logging in...
+  2020-04-28 17:20:06 INFO  ExcelFileUtility:23 - Test Data File Path: E:/Invoicing You_Java/TestData/InvoicingYouData.xlsx
+  2020-04-28 17:20:06 DEBUG ExcelFileUtility:25 - File Size: 10600
+  2020-04-28 17:20:06 INFO  ExcelFileUtility:36 - Sheet Name:Login
+  2020-04-28 17:20:06 DEBUG LogInPage:36 - Login credential: work+payeltest@tier5.in/123456
+  2020-04-28 17:20:07 INFO  LogInPage:41 - Login button clicked
+  2020-04-28 17:20:07 INFO  LogInPage:46 - Riderecting to dashboard page
+  2020-04-28 17:20:07 INFO  DashboardPage:17 - Dashboard landed. com.invoicingyou.qa.pages.DashboardPage
+  2020-04-28 17:20:12 DEBUG DashboardPageTest:53 - Open Customer page
+  2020-04-28 17:20:12 DEBUG Base:17 - IN Customer page..com.invoicingyou.qa.pages.CustomersPage
+  2020-04-28 17:20:17 INFO  Base:46 - Selected Browser:chrome
+  2020-04-28 17:20:17 DEBUG Base:48 - Web Driver Location: E:/chromedriver_win32/chromedriver.exe
+  2020-04-28 17:20:17 DEBUG Base:50 - Web Driver Path: E:\chromedriver_win32\chromedriver.exe
+  2020-04-28 17:20:25 INFO  ExcelFileUtility:23 - Test Data File Path: E:/Invoicing You_Java/TestData/InvoicingYouData.xlsx
+  2020-04-28 17:20:25 DEBUG ExcelFileUtility:25 - File Size: 10600
+  2020-04-28 17:20:25 INFO  ExcelFileUtility:36 - Sheet Name:Login
+  2020-04-28 17:20:25 DEBUG LogInPage:36 - Login credential: work+payeltest@tier5.in/123456
+  2020-04-28 17:20:25 INFO  LogInPage:41 - Login button clicked
+  2020-04-28 17:20:25 INFO  LogInPage:46 - Riderecting to dashboard page
+  2020-04-28 17:20:25 INFO  DashboardPage:17 - Dashboard landed. com.invoicingyou.qa.pages.DashboardPage
+  2020-04-29 16:12:11 DEBUG CustomerPageTest:37 - In Setup..
+  2020-04-29 16:12:11 INFO  Base:46 - Selected Browser:chrome
+  2020-04-29 16:12:11 DEBUG Base:48 - Web Driver Location: E:/chromedriver_win32/chromedriver.exe
+  2020-04-29 16:12:11 DEBUG Base:50 - Web Driver Path: E:\chromedriver_win32\chromedriver.exe
+  2020-04-29 16:12:53 DEBUG Base:17 - IN Customer page..com.invoicingyou.qa.pages.CustomersPage
+  2020-04-29 16:12:53 INFO  DashboardPage:17 - Dashboard landed. com.invoicingyou.qa.pages.DashboardPage
+  2020-04-29 16:12:53 DEBUG CustomerPageTest:47 - Logging in...
+  2020-04-29 16:12:53 INFO  ExcelFileUtility:23 - Test Data File Path: E:/Invoicing You_Java/TestData/InvoicingYouData.xlsx
+  2020-04-29 16:12:54 DEBUG ExcelFileUtility:25 - File Size: 10600
+  2020-04-29 16:12:58 INFO  ExcelFileUtility:36 - Sheet Name:Login
+  2020-04-29 16:12:58 DEBUG LogInPage:36 - Login credential: work+payeltest@tier5.in/123456
+  2020-04-29 16:13:01 INFO  LogInPage:41 - Login button clicked
+  2020-04-29 16:13:01 INFO  LogInPage:46 - Riderecting to dashboard page
+  2020-04-29 16:13:01 INFO  DashboardPage:17 - Dashboard landed. com.invoicingyou.qa.pages.DashboardPage
+  2020-04-29 16:13:11 DEBUG CustomerPageTest:57 - Open Customer page
+  2020-04-29 16:13:11 DEBUG Base:17 - IN Customer page..com.invoicingyou.qa.pages.CustomersPage
+  2020-04-29 16:13:11 INFO  ExcelFileUtility:23 - Test Data File Path: E:/Invoicing You_Java/TestData/InvoicingYouData.xlsx
+  2020-04-29 16:13:11 DEBUG ExcelFileUtility:25 - File Size: 10600
+  2020-04-29 16:13:11 INFO  ExcelFileUtility:36 - Sheet Name:Customers
+  2020-04-29 16:13:24 DEBUG DashboardPageTest:33 - In  Setup..
+  2020-04-29 16:13:24 INFO  Base:46 - Selected Browser:chrome
+  2020-04-29 16:13:24 DEBUG Base:48 - Web Driver Location: E:/chromedriver_win32/chromedriver.exe
+  2020-04-29 16:13:24 DEBUG Base:50 - Web Driver Path: E:\chromedriver_win32\chromedriver.exe
+  2020-04-29 16:13:31 DEBUG Base:17 - IN Customer page..com.invoicingyou.qa.pages.CustomersPage
+  2020-04-29 16:13:31 INFO  DashboardPage:17 - Dashboard landed. com.invoicingyou.qa.pages.DashboardPage
+  2020-04-29 16:13:31 DEBUG DashboardPageTest:43 - Logging in...
+  2020-04-29 16:13:31 INFO  ExcelFileUtility:23 - Test Data File Path: E:/Invoicing You_Java/TestData/InvoicingYouData.xlsx
+  2020-04-29 16:13:31 DEBUG ExcelFileUtility:25 - File Size: 10600
+  2020-04-29 16:13:31 INFO  ExcelFileUtility:36 - Sheet Name:Login
+  2020-04-29 16:13:31 DEBUG LogInPage:36 - Login credential: work+payeltest@tier5.in/123456
+  2020-04-29 16:13:32 INFO  LogInPage:41 - Login button clicked
+  2020-04-29 16:13:32 INFO  LogInPage:46 - Riderecting to dashboard page
+  2020-04-29 16:13:32 INFO  DashboardPage:17 - Dashboard landed. com.invoicingyou.qa.pages.DashboardPage
+  2020-04-29 16:13:37 DEBUG DashboardPageTest:53 - Open Customer page
+  2020-04-29 16:13:37 DEBUG Base:17 - IN Customer page..com.invoicingyou.qa.pages.CustomersPage
+  2020-04-29 16:13:43 DEBUG CustomerPageTest:34 - In Setup..
+  2020-04-29 16:13:43 INFO  Base:46 - Selected Browser:chrome
+  2020-04-29 16:13:43 DEBUG Base:48 - Web Driver Location: E:/chromedriver_win32/chromedriver.exe
+  2020-04-29 16:13:43 DEBUG Base:50 - Web Driver Path: E:\chromedriver_win32\chromedriver.exe
+  2020-04-29 16:13:50 DEBUG Base:19 - IN Invoices page..com.invoicingyou.qa.pages.GeneralInvoicesPage
+  2020-04-29 16:13:50 INFO  DashboardPage:17 - Dashboard landed. com.invoicingyou.qa.pages.DashboardPage
+  2020-04-29 16:13:50 DEBUG CustomerPageTest:44 - Logging in...
+  2020-04-29 16:13:50 INFO  ExcelFileUtility:23 - Test Data File Path: E:/Invoicing You_Java/TestData/InvoicingYouData.xlsx
+  2020-04-29 16:13:50 DEBUG ExcelFileUtility:25 - File Size: 10600
+  2020-04-29 16:13:50 INFO  ExcelFileUtility:36 - Sheet Name:Login
+  2020-04-29 16:13:50 DEBUG LogInPage:36 - Login credential: work+payeltest@tier5.in/123456
+  2020-04-29 16:13:50 INFO  LogInPage:41 - Login button clicked
+  2020-04-29 16:13:50 INFO  LogInPage:46 - Riderecting to dashboard page
+  2020-04-29 16:13:50 INFO  DashboardPage:17 - Dashboard landed. com.invoicingyou.qa.pages.DashboardPage
+  2020-04-29 16:14:00 DEBUG CustomerPageTest:54 - Open General INV page
+  2020-04-29 16:14:01 INFO  Base:46 - Selected Browser:chrome
+  2020-04-29 16:14:01 DEBUG Base:48 - Web Driver Location: E:/chromedriver_win32/chromedriver.exe
+  2020-04-29 16:14:01 DEBUG Base:50 - Web Driver Path: E:\chromedriver_win32\chromedriver.exe
+  2020-04-29 16:14:19 INFO  ExcelFileUtility:23 - Test Data File Path: E:/Invoicing You_Java/TestData/InvoicingYouData.xlsx
+  2020-04-29 16:14:19 DEBUG ExcelFileUtility:25 - File Size: 10600
+  2020-04-29 16:14:19 INFO  ExcelFileUtility:36 - Sheet Name:Login
+  2020-04-29 16:14:19 DEBUG LogInPage:36 - Login credential: work+payeltest@tier5.in/123456
+  2020-04-29 16:14:20 INFO  LogInPage:41 - Login button clicked
+  2020-04-29 16:14:20 INFO  LogInPage:46 - Riderecting to dashboard page
+  2020-04-29 16:14:20 INFO  DashboardPage:17 - Dashboard landed. com.invoicingyou.qa.pages.DashboardPage
+  2020-04-29 16:18:47 DEBUG CustomerPageTest:37 - In Setup..
+  2020-04-29 16:18:47 INFO  Base:46 - Selected Browser:chrome
+  2020-04-29 16:18:47 DEBUG Base:48 - Web Driver Location: E:/chromedriver_win32/chromedriver.exe
+  2020-04-29 16:18:47 DEBUG Base:50 - Web Driver Path: E:\chromedriver_win32\chromedriver.exe
+  2020-04-29 16:19:03 DEBUG Base:17 - IN Customer page..com.invoicingyou.qa.pages.CustomersPage
+  2020-04-29 16:19:03 INFO  DashboardPage:17 - Dashboard landed. com.invoicingyou.qa.pages.DashboardPage
+  2020-04-29 16:19:03 DEBUG CustomerPageTest:47 - Logging in...
+  2020-04-29 16:19:03 INFO  ExcelFileUtility:23 - Test Data File Path: E:/Invoicing You_Java/TestData/InvoicingYouData.xlsx
+  2020-04-29 16:19:03 DEBUG ExcelFileUtility:25 - File Size: 10600
+  2020-04-29 16:19:04 INFO  ExcelFileUtility:36 - Sheet Name:Login
+  2020-04-29 16:19:04 DEBUG LogInPage:36 - Login credential: work+payeltest@tier5.in/123456
+  2020-04-29 16:19:05 INFO  LogInPage:41 - Login button clicked
+  2020-04-29 16:19:05 INFO  LogInPage:46 - Riderecting to dashboard page
+  2020-04-29 16:19:05 INFO  DashboardPage:17 - Dashboard landed. com.invoicingyou.qa.pages.DashboardPage
+  2020-04-29 16:19:15 DEBUG CustomerPageTest:57 - Open Customer page
+  2020-04-29 16:19:15 DEBUG Base:17 - IN Customer page..com.invoicingyou.qa.pages.CustomersPage
+  2020-04-29 16:19:15 INFO  ExcelFileUtility:23 - Test Data File Path: E:/Invoicing You_Java/TestData/InvoicingYouData.xlsx
+  2020-04-29 16:19:15 DEBUG ExcelFileUtility:25 - File Size: 10600
+  2020-04-29 16:19:15 INFO  ExcelFileUtility:36 - Sheet Name:Customers
+  2020-04-29 16:19:27 DEBUG DashboardPageTest:33 - In  Setup..
+  2020-04-29 16:19:27 INFO  Base:46 - Selected Browser:chrome
+  2020-04-29 16:19:27 DEBUG Base:48 - Web Driver Location: E:/chromedriver_win32/chromedriver.exe
+  2020-04-29 16:19:27 DEBUG Base:50 - Web Driver Path: E:\chromedriver_win32\chromedriver.exe
+  2020-04-29 16:19:34 DEBUG Base:17 - IN Customer page..com.invoicingyou.qa.pages.CustomersPage
+  2020-04-29 16:19:34 INFO  DashboardPage:17 - Dashboard landed. com.invoicingyou.qa.pages.DashboardPage
+  2020-04-29 16:19:34 DEBUG DashboardPageTest:43 - Logging in...
+  2020-04-29 16:19:34 INFO  ExcelFileUtility:23 - Test Data File Path: E:/Invoicing You_Java/TestData/InvoicingYouData.xlsx
+  2020-04-29 16:19:34 DEBUG ExcelFileUtility:25 - File Size: 10600
+  2020-04-29 16:19:34 INFO  ExcelFileUtility:36 - Sheet Name:Login
+  2020-04-29 16:19:34 DEBUG LogInPage:36 - Login credential: work+payeltest@tier5.in/123456
+  2020-04-29 16:19:35 INFO  LogInPage:41 - Login button clicked
+  2020-04-29 16:19:35 INFO  LogInPage:46 - Riderecting to dashboard page
+  2020-04-29 16:19:35 INFO  DashboardPage:17 - Dashboard landed. com.invoicingyou.qa.pages.DashboardPage
+  2020-04-29 16:19:40 DEBUG DashboardPageTest:53 - Open Customer page
+  2020-04-29 16:19:40 DEBUG Base:17 - IN Customer page..com.invoicingyou.qa.pages.CustomersPage
+  2020-04-29 16:19:46 DEBUG CustomerPageTest:34 - In Setup..
+  2020-04-29 16:19:46 INFO  Base:46 - Selected Browser:chrome
+  2020-04-29 16:19:46 DEBUG Base:48 - Web Driver Location: E:/chromedriver_win32/chromedriver.exe
+  2020-04-29 16:19:46 DEBUG Base:50 - Web Driver Path: E:\chromedriver_win32\chromedriver.exe
+  2020-04-29 16:19:52 DEBUG Base:19 - IN Invoices page..com.invoicingyou.qa.pages.GeneralInvoicesPage
+  2020-04-29 16:19:52 INFO  DashboardPage:17 - Dashboard landed. com.invoicingyou.qa.pages.DashboardPage
+  2020-04-29 16:19:52 DEBUG CustomerPageTest:44 - Logging in...
+  2020-04-29 16:19:52 INFO  ExcelFileUtility:23 - Test Data File Path: E:/Invoicing You_Java/TestData/InvoicingYouData.xlsx
+  2020-04-29 16:19:52 DEBUG ExcelFileUtility:25 - File Size: 10600
+  2020-04-29 16:19:52 INFO  ExcelFileUtility:36 - Sheet Name:Login
+  2020-04-29 16:19:52 DEBUG LogInPage:36 - Login credential: work+payeltest@tier5.in/123456
+  2020-04-29 16:19:53 INFO  LogInPage:41 - Login button clicked
+  2020-04-29 16:19:53 INFO  LogInPage:46 - Riderecting to dashboard page
+  2020-04-29 16:19:53 INFO  DashboardPage:17 - Dashboard landed. com.invoicingyou.qa.pages.DashboardPage
+  2020-04-29 16:20:03 DEBUG CustomerPageTest:54 - Open General INV page
+  2020-04-29 16:20:03 DEBUG Base:19 - IN Invoices page..com.invoicingyou.qa.pages.GeneralInvoicesPage
+  2020-04-29 16:20:03 INFO  Base:46 - Selected Browser:chrome
+  2020-04-29 16:20:03 DEBUG Base:48 - Web Driver Location: E:/chromedriver_win32/chromedriver.exe
+  2020-04-29 16:20:03 DEBUG Base:50 - Web Driver Path: E:\chromedriver_win32\chromedriver.exe
+  2020-04-29 16:20:17 INFO  ExcelFileUtility:23 - Test Data File Path: E:/Invoicing You_Java/TestData/InvoicingYouData.xlsx
+  2020-04-29 16:20:17 DEBUG ExcelFileUtility:25 - File Size: 10600
+  2020-04-29 16:20:17 INFO  ExcelFileUtility:36 - Sheet Name:Login
+  2020-04-29 16:20:17 DEBUG LogInPage:36 - Login credential: work+payeltest@tier5.in/123456
+  2020-04-29 16:20:18 INFO  LogInPage:41 - Login button clicked
+  2020-04-29 16:20:18 INFO  LogInPage:46 - Riderecting to dashboard page
+  2020-04-29 16:20:18 INFO  DashboardPage:17 - Dashboard landed. com.invoicingyou.qa.pages.DashboardPage
+  2020-04-29 18:17:24 DEBUG GeneralInvoicesPage:37 - In Setup..
+  2020-04-29 18:17:24 INFO  Base:46 - Selected Browser:chrome
+  2020-04-29 18:17:24 DEBUG Base:48 - Web Driver Location: E:/chromedriver_win32/chromedriver.exe
+  2020-04-29 18:17:24 DEBUG Base:50 - Web Driver Path: E:\chromedriver_win32\chromedriver.exe
+  2020-04-29 18:18:14 DEBUG Base:20 - IN Invoices page..com.invoicingyou.qa.pages.GeneralInvoicesPage
+  2020-04-29 18:18:14 INFO  DashboardPage:17 - Dashboard landed. com.invoicingyou.qa.pages.DashboardPage
+  2020-04-29 18:18:14 DEBUG GeneralInvoicesPage:47 - Logging in...
+  2020-04-29 18:18:14 INFO  ExcelFileUtility:23 - Test Data File Path: E:/Invoicing You_Java/TestData/InvoicingYouData.xlsx
+  2020-04-29 18:18:14 DEBUG ExcelFileUtility:25 - File Size: 11999
+  2020-04-29 18:18:19 INFO  ExcelFileUtility:36 - Sheet Name:Login
+  2020-04-29 18:18:19 DEBUG LogInPage:36 - Login credential: work+payeltest@tier5.in/123456
+  2020-04-29 18:18:22 INFO  LogInPage:41 - Login button clicked
+  2020-04-29 18:18:22 INFO  LogInPage:46 - Riderecting to dashboard page
+  2020-04-29 18:18:22 INFO  DashboardPage:17 - Dashboard landed. com.invoicingyou.qa.pages.DashboardPage
+  2020-04-29 18:18:32 DEBUG GeneralInvoicesPage:57 - Open General INV page
+  2020-04-29 18:18:32 DEBUG Base:20 - IN Invoices page..com.invoicingyou.qa.pages.GeneralInvoicesPage
+  2020-04-29 18:18:32 DEBUG GeneralInvoicesPage:65 - Create General INV 
+  2020-04-29 18:18:32 INFO  ExcelFileUtility:23 - Test Data File Path: E:/Invoicing You_Java/TestData/InvoicingYouData.xlsx
+  2020-04-29 18:18:32 DEBUG ExcelFileUtility:25 - File Size: 11999
+  2020-04-29 18:18:33 INFO  ExcelFileUtility:36 - Sheet Name:GenInvData
+  2020-04-29 18:22:52 DEBUG GeneralInvoicesPage:37 - In Setup..
+  2020-04-29 18:22:52 INFO  Base:46 - Selected Browser:chrome
+  2020-04-29 18:22:52 DEBUG Base:48 - Web Driver Location: E:/chromedriver_win32/chromedriver.exe
+  2020-04-29 18:22:52 DEBUG Base:50 - Web Driver Path: E:\chromedriver_win32\chromedriver.exe
+  2020-04-29 18:23:04 DEBUG Base:20 - IN Invoices page..com.invoicingyou.qa.pages.GeneralInvoicesPage
+  2020-04-29 18:23:04 INFO  DashboardPage:17 - Dashboard landed. com.invoicingyou.qa.pages.DashboardPage
+  2020-04-29 18:23:04 DEBUG GeneralInvoicesPage:47 - Logging in...
+  2020-04-29 18:23:04 INFO  ExcelFileUtility:23 - Test Data File Path: E:/Invoicing You_Java/TestData/InvoicingYouData.xlsx
+  2020-04-29 18:23:04 DEBUG ExcelFileUtility:25 - File Size: 11999
+  2020-04-29 18:23:06 INFO  ExcelFileUtility:36 - Sheet Name:Login
+  2020-04-29 18:23:06 DEBUG LogInPage:36 - Login credential: work+payeltest@tier5.in/123456
+  2020-04-29 18:23:14 ERROR LogInPage:44 - [Ljava.lang.StackTraceElement;@2a79d4b1
+  2020-04-29 18:23:14 INFO  LogInPage:46 - Riderecting to dashboard page
+  2020-04-29 18:23:14 INFO  DashboardPage:17 - Dashboard landed. com.invoicingyou.qa.pages.DashboardPage
+  2020-04-29 18:23:24 DEBUG GeneralInvoicesPage:57 - Open General INV page
+  2020-04-29 18:23:24 DEBUG GeneralInvoicesPage:65 - Create General INV 
+  2020-04-29 18:23:24 INFO  ExcelFileUtility:23 - Test Data File Path: E:/Invoicing You_Java/TestData/InvoicingYouData.xlsx
+  2020-04-29 18:23:24 DEBUG ExcelFileUtility:25 - File Size: 11999
+  2020-04-29 18:23:24 INFO  ExcelFileUtility:36 - Sheet Name:GenInvData
+  2020-04-29 18:24:39 DEBUG GeneralInvoicesPage:37 - In Setup..
+  2020-04-29 18:24:39 INFO  Base:46 - Selected Browser:chrome
+  2020-04-29 18:24:39 DEBUG Base:48 - Web Driver Location: E:/chromedriver_win32/chromedriver.exe
+  2020-04-29 18:24:39 DEBUG Base:50 - Web Driver Path: E:\chromedriver_win32\chromedriver.exe
+  2020-04-29 18:24:47 DEBUG Base:20 - IN Invoices page..com.invoicingyou.qa.pages.GeneralInvoicesPage
+  2020-04-29 18:24:48 INFO  DashboardPage:17 - Dashboard landed. com.invoicingyou.qa.pages.DashboardPage
+  2020-04-29 18:24:48 DEBUG GeneralInvoicesPage:47 - Logging in...
+  2020-04-29 18:24:48 INFO  ExcelFileUtility:23 - Test Data File Path: E:/Invoicing You_Java/TestData/InvoicingYouData.xlsx
+  2020-04-29 18:24:48 DEBUG ExcelFileUtility:25 - File Size: 11999
+  2020-04-29 18:24:49 INFO  ExcelFileUtility:36 - Sheet Name:Login
+  2020-04-29 18:24:49 DEBUG LogInPage:36 - Login credential: work+payeltest@tier5.in/123456
+  2020-04-29 18:24:49 INFO  LogInPage:41 - Login button clicked
+  2020-04-29 18:24:49 INFO  LogInPage:46 - Riderecting to dashboard page
+  2020-04-29 18:24:49 INFO  DashboardPage:17 - Dashboard landed. com.invoicingyou.qa.pages.DashboardPage
+  2020-04-29 18:24:59 DEBUG GeneralInvoicesPage:57 - Open General INV page
+  2020-04-29 18:25:00 DEBUG Base:20 - IN Invoices page..com.invoicingyou.qa.pages.GeneralInvoicesPage
+  2020-04-29 18:25:00 DEBUG GeneralInvoicesPage:65 - Create General INV 
+  2020-04-29 18:25:00 INFO  ExcelFileUtility:23 - Test Data File Path: E:/Invoicing You_Java/TestData/InvoicingYouData.xlsx
+  2020-04-29 18:25:00 DEBUG ExcelFileUtility:25 - File Size: 11999
+  2020-04-29 18:25:00 INFO  ExcelFileUtility:36 - Sheet Name:GenInvData
+  2020-04-30 14:04:25 DEBUG GeneralInvoicesPage:37 - In Setup..
+  2020-04-30 14:04:25 INFO  Base:46 - Selected Browser:chrome
+  2020-04-30 14:04:25 DEBUG Base:48 - Web Driver Location: E:/chromedriver_win32/chromedriver.exe
+  2020-04-30 14:04:25 DEBUG Base:50 - Web Driver Path: E:\chromedriver_win32\chromedriver.exe
+  2020-04-30 14:04:55 DEBUG Base:20 - IN Invoices page..com.invoicingyou.qa.pages.GeneralInvoicesPage
+  2020-04-30 14:04:55 INFO  DashboardPage:17 - Dashboard landed. com.invoicingyou.qa.pages.DashboardPage
+  2020-04-30 14:04:55 DEBUG GeneralInvoicesPage:47 - Logging in...
+  2020-04-30 14:04:55 INFO  ExcelFileUtility:23 - Test Data File Path: E:/Invoicing You_Java/TestData/InvoicingYouData.xlsx
+  2020-04-30 14:04:55 DEBUG ExcelFileUtility:25 - File Size: 12017
+  2020-04-30 14:04:58 INFO  ExcelFileUtility:36 - Sheet Name:Login
+  2020-04-30 14:04:58 DEBUG LogInPage:36 - Login credential: work+payeltest@tier5.in/123456
+  2020-04-30 14:05:00 INFO  LogInPage:41 - Login button clicked
+  2020-04-30 14:05:00 INFO  LogInPage:46 - Riderecting to dashboard page
+  2020-04-30 14:05:00 INFO  DashboardPage:17 - Dashboard landed. com.invoicingyou.qa.pages.DashboardPage
+  2020-04-30 14:05:10 DEBUG GeneralInvoicesPage:57 - Open General INV page
+  2020-04-30 14:05:10 DEBUG Base:20 - IN Invoices page..com.invoicingyou.qa.pages.GeneralInvoicesPage
+  2020-04-30 14:05:10 DEBUG GeneralInvoicesPage:65 - Create General INV 
+  2020-04-30 14:05:10 INFO  ExcelFileUtility:23 - Test Data File Path: E:/Invoicing You_Java/TestData/InvoicingYouData.xlsx
+  2020-04-30 14:05:10 DEBUG ExcelFileUtility:25 - File Size: 12017
+  2020-04-30 14:05:10 INFO  ExcelFileUtility:36 - Sheet Name:GenInvData
+  2020-04-30 14:05:17 INFO  ExcelFileUtility:23 - Test Data File Path: E:/Invoicing You_Java/TestData/InvoicingYouData.xlsx
+  2020-04-30 14:05:17 DEBUG ExcelFileUtility:25 - File Size: 12017
+  2020-04-30 14:05:17 INFO  ExcelFileUtility:36 - Sheet Name:GenInvData
+  2020-04-30 14:07:40 DEBUG GeneralInvoicesPage:37 - In Setup..
+  2020-04-30 14:07:40 INFO  Base:46 - Selected Browser:chrome
+  2020-04-30 14:07:40 DEBUG Base:48 - Web Driver Location: E:/chromedriver_win32/chromedriver.exe
+  2020-04-30 14:07:40 DEBUG Base:50 - Web Driver Path: E:\chromedriver_win32\chromedriver.exe
+  2020-04-30 14:07:52 DEBUG Base:20 - IN Invoices page..com.invoicingyou.qa.pages.GeneralInvoicesPage
+  2020-04-30 14:07:52 INFO  DashboardPage:17 - Dashboard landed. com.invoicingyou.qa.pages.DashboardPage
+  2020-04-30 14:07:52 DEBUG GeneralInvoicesPage:47 - Logging in...
+  2020-04-30 14:07:52 INFO  ExcelFileUtility:23 - Test Data File Path: E:/Invoicing You_Java/TestData/InvoicingYouData.xlsx
+  2020-04-30 14:07:52 DEBUG ExcelFileUtility:25 - File Size: 12015
+  2020-04-30 14:07:53 INFO  ExcelFileUtility:36 - Sheet Name:Login
+  2020-04-30 14:07:53 DEBUG LogInPage:36 - Login credential: work+payeltest@tier5.in/123456
+  2020-04-30 14:07:53 INFO  LogInPage:41 - Login button clicked
+  2020-04-30 14:07:53 INFO  LogInPage:46 - Riderecting to dashboard page
+  2020-04-30 14:07:53 INFO  DashboardPage:17 - Dashboard landed. com.invoicingyou.qa.pages.DashboardPage
+  2020-04-30 14:08:03 DEBUG GeneralInvoicesPage:57 - Open General INV page
+  2020-04-30 14:08:04 DEBUG Base:20 - IN Invoices page..com.invoicingyou.qa.pages.GeneralInvoicesPage
+  2020-04-30 14:08:04 DEBUG GeneralInvoicesPage:65 - Create General INV 
+  2020-04-30 14:08:04 INFO  ExcelFileUtility:23 - Test Data File Path: E:/Invoicing You_Java/TestData/InvoicingYouData.xlsx
+  2020-04-30 14:08:04 DEBUG ExcelFileUtility:25 - File Size: 12015
+  2020-04-30 14:08:04 INFO  ExcelFileUtility:36 - Sheet Name:GenInvData
+  2020-04-30 14:08:10 INFO  ExcelFileUtility:23 - Test Data File Path: E:/Invoicing You_Java/TestData/InvoicingYouData.xlsx
+  2020-04-30 14:08:10 DEBUG ExcelFileUtility:25 - File Size: 12015
+  2020-04-30 14:08:10 INFO  ExcelFileUtility:36 - Sheet Name:GenInvData
+  2020-04-30 15:11:19 DEBUG GeneralInvoicesPage:37 - In Setup..
+  2020-04-30 15:11:19 INFO  Base:46 - Selected Browser:chrome
+  2020-04-30 15:11:19 DEBUG Base:48 - Web Driver Location: E:/chromedriver_win32/chromedriver.exe
+  2020-04-30 15:11:19 DEBUG Base:50 - Web Driver Path: E:\chromedriver_win32\chromedriver.exe
+  2020-04-30 15:12:10 DEBUG Base:20 - IN Invoices page..com.invoicingyou.qa.pages.GeneralInvoicesPage
+  2020-04-30 15:12:10 INFO  DashboardPage:17 - Dashboard landed. com.invoicingyou.qa.pages.DashboardPage
+  2020-04-30 15:12:10 DEBUG GeneralInvoicesPage:47 - Logging in...
+  2020-04-30 15:12:10 INFO  ExcelFileUtility:23 - Test Data File Path: E:/Invoicing You_Java/TestData/InvoicingYouData.xlsx
+  2020-04-30 15:12:10 DEBUG ExcelFileUtility:25 - File Size: 12015
+  2020-04-30 15:12:15 INFO  ExcelFileUtility:36 - Sheet Name:Login
+  2020-04-30 15:12:15 DEBUG LogInPage:36 - Login credential: work+payeltest@tier5.in/123456
+  2020-04-30 15:12:16 INFO  LogInPage:41 - Login button clicked
+  2020-04-30 15:12:16 INFO  LogInPage:46 - Riderecting to dashboard page
+  2020-04-30 15:12:16 INFO  DashboardPage:17 - Dashboard landed. com.invoicingyou.qa.pages.DashboardPage
+  2020-04-30 15:12:26 DEBUG GeneralInvoicesPage:57 - Open General INV page
+  2020-04-30 15:12:27 DEBUG Base:20 - IN Invoices page..com.invoicingyou.qa.pages.GeneralInvoicesPage
+  2020-04-30 15:12:27 DEBUG GeneralInvoicesPage:65 - Create General INV 
+  2020-04-30 15:12:27 INFO  ExcelFileUtility:23 - Test Data File Path: E:/Invoicing You_Java/TestData/InvoicingYouData.xlsx
+  2020-04-30 15:12:27 DEBUG ExcelFileUtility:25 - File Size: 12015
+  2020-04-30 15:12:27 INFO  ExcelFileUtility:36 - Sheet Name:GenInvData
+  2020-04-30 15:12:34 INFO  ExcelFileUtility:23 - Test Data File Path: E:/Invoicing You_Java/TestData/InvoicingYouData.xlsx
+  2020-04-30 15:12:34 DEBUG ExcelFileUtility:25 - File Size: 12015
+  2020-04-30 15:12:34 INFO  ExcelFileUtility:36 - Sheet Name:GenInvData
+  2020-04-30 18:42:21 DEBUG GeneralInvoicesPage:37 - In Setup..
+  2020-04-30 18:42:21 INFO  Base:46 - Selected Browser:chrome
+  2020-04-30 18:42:21 DEBUG Base:48 - Web Driver Location: E:/chromedriver_win32/chromedriver.exe
+  2020-04-30 18:42:21 DEBUG Base:50 - Web Driver Path: E:\chromedriver_win32\chromedriver.exe
+  2020-04-30 18:43:00 DEBUG Base:20 - IN Invoices page..com.invoicingyou.qa.pages.GeneralInvoicesPage
+  2020-04-30 18:43:00 INFO  DashboardPage:17 - Dashboard landed. com.invoicingyou.qa.pages.DashboardPage
+  2020-04-30 18:43:00 DEBUG GeneralInvoicesPage:47 - Logging in...
+  2020-04-30 18:43:00 INFO  ExcelFileUtility:23 - Test Data File Path: E:/Invoicing You_Java/TestData/InvoicingYouData.xlsx
+  2020-04-30 18:43:00 DEBUG ExcelFileUtility:25 - File Size: 12015
+  2020-04-30 18:43:04 INFO  ExcelFileUtility:36 - Sheet Name:Login
+  2020-04-30 18:43:04 DEBUG LogInPage:36 - Login credential: work+payeltest@tier5.in/123456
+  2020-04-30 18:43:05 INFO  LogInPage:41 - Login button clicked
+  2020-04-30 18:43:05 INFO  LogInPage:46 - Riderecting to dashboard page
+  2020-04-30 18:43:05 INFO  DashboardPage:17 - Dashboard landed. com.invoicingyou.qa.pages.DashboardPage
+  2020-04-30 18:43:15 DEBUG GeneralInvoicesPage:57 - Open General INV page
+  2020-04-30 18:43:15 DEBUG Base:20 - IN Invoices page..com.invoicingyou.qa.pages.GeneralInvoicesPage
+  2020-04-30 18:43:15 DEBUG GeneralInvoicesPage:65 - Create General INV 
+  2020-04-30 18:43:15 INFO  ExcelFileUtility:23 - Test Data File Path: E:/Invoicing You_Java/TestData/InvoicingYouData.xlsx
+  2020-04-30 18:43:15 DEBUG ExcelFileUtility:25 - File Size: 12015
+  2020-04-30 18:43:15 INFO  ExcelFileUtility:36 - Sheet Name:GenInvData
+  2020-04-30 18:43:22 INFO  ExcelFileUtility:23 - Test Data File Path: E:/Invoicing You_Java/TestData/InvoicingYouData.xlsx
+  2020-04-30 18:43:22 DEBUG ExcelFileUtility:25 - File Size: 12015
+  2020-04-30 18:43:22 INFO  ExcelFileUtility:36 - Sheet Name:GenInvData
+  2020-04-30 18:50:16 DEBUG GeneralInvoicesPage:37 - In Setup..
+  2020-04-30 18:50:16 INFO  Base:46 - Selected Browser:chrome
+  2020-04-30 18:50:16 DEBUG Base:48 - Web Driver Location: E:/chromedriver_win32/chromedriver.exe
+  2020-04-30 18:50:16 DEBUG Base:50 - Web Driver Path: E:\chromedriver_win32\chromedriver.exe
+  2020-04-30 18:50:34 DEBUG Base:20 - IN Invoices page..com.invoicingyou.qa.pages.GeneralInvoicesPage
+  2020-04-30 18:50:34 INFO  DashboardPage:17 - Dashboard landed. com.invoicingyou.qa.pages.DashboardPage
+  2020-04-30 18:50:34 DEBUG GeneralInvoicesPage:47 - Logging in...
+  2020-04-30 18:50:34 INFO  ExcelFileUtility:23 - Test Data File Path: E:/Invoicing You_Java/TestData/InvoicingYouData.xlsx
+  2020-04-30 18:50:34 DEBUG ExcelFileUtility:25 - File Size: 12015
+  2020-04-30 18:50:34 INFO  ExcelFileUtility:36 - Sheet Name:Login
+  2020-04-30 18:50:34 DEBUG LogInPage:36 - Login credential: work+payeltest@tier5.in/123456
+  2020-04-30 18:50:35 INFO  LogInPage:41 - Login button clicked
+  2020-04-30 18:50:35 INFO  LogInPage:46 - Riderecting to dashboard page
+  2020-04-30 18:50:35 INFO  DashboardPage:17 - Dashboard landed. com.invoicingyou.qa.pages.DashboardPage
+  2020-04-30 18:50:45 DEBUG GeneralInvoicesPage:57 - Open General INV page
+  2020-04-30 18:50:46 DEBUG Base:20 - IN Invoices page..com.invoicingyou.qa.pages.GeneralInvoicesPage
+  2020-04-30 18:50:46 DEBUG GeneralInvoicesPage:65 - Create General INV 
+  2020-04-30 18:50:46 INFO  ExcelFileUtility:23 - Test Data File Path: E:/Invoicing You_Java/TestData/InvoicingYouData.xlsx
+  2020-04-30 18:50:46 DEBUG ExcelFileUtility:25 - File Size: 12015
+  2020-04-30 18:50:46 INFO  ExcelFileUtility:36 - Sheet Name:GenInvData
+  2020-04-30 18:50:52 INFO  ExcelFileUtility:23 - Test Data File Path: E:/Invoicing You_Java/TestData/InvoicingYouData.xlsx
+  2020-04-30 18:50:52 DEBUG ExcelFileUtility:25 - File Size: 12015
+  2020-04-30 18:50:52 INFO  ExcelFileUtility:36 - Sheet Name:GenInvData
+  2020-04-30 18:53:13 DEBUG GeneralInvoicesPage:37 - In Setup..
+  2020-04-30 18:53:13 INFO  Base:46 - Selected Browser:chrome
+  2020-04-30 18:53:13 DEBUG Base:48 - Web Driver Location: E:/chromedriver_win32/chromedriver.exe
+  2020-04-30 18:53:13 DEBUG Base:50 - Web Driver Path: E:\chromedriver_win32\chromedriver.exe
+  2020-04-30 18:53:21 DEBUG Base:20 - IN Invoices page..com.invoicingyou.qa.pages.GeneralInvoicesPage
+  2020-04-30 18:53:21 INFO  DashboardPage:17 - Dashboard landed. com.invoicingyou.qa.pages.DashboardPage
+  2020-04-30 18:53:21 DEBUG GeneralInvoicesPage:47 - Logging in...
+  2020-04-30 18:53:21 INFO  ExcelFileUtility:23 - Test Data File Path: E:/Invoicing You_Java/TestData/InvoicingYouData.xlsx
+  2020-04-30 18:53:21 DEBUG ExcelFileUtility:25 - File Size: 12015
+  2020-04-30 18:53:21 INFO  ExcelFileUtility:36 - Sheet Name:Login
+  2020-04-30 18:53:21 DEBUG LogInPage:36 - Login credential: work+payeltest@tier5.in/123456
+  2020-04-30 18:53:22 INFO  LogInPage:41 - Login button clicked
+  2020-04-30 18:53:22 INFO  LogInPage:46 - Riderecting to dashboard page
+  2020-04-30 18:53:22 INFO  DashboardPage:17 - Dashboard landed. com.invoicingyou.qa.pages.DashboardPage
+  2020-04-30 18:53:32 DEBUG GeneralInvoicesPage:57 - Open General INV page
+  2020-04-30 18:53:32 DEBUG Base:20 - IN Invoices page..com.invoicingyou.qa.pages.GeneralInvoicesPage
+  2020-04-30 18:53:32 DEBUG GeneralInvoicesPage:65 - Create General INV 
+  2020-04-30 18:53:32 INFO  ExcelFileUtility:23 - Test Data File Path: E:/Invoicing You_Java/TestData/InvoicingYouData.xlsx
+  2020-04-30 18:53:32 DEBUG ExcelFileUtility:25 - File Size: 12015
+  2020-04-30 18:53:32 INFO  ExcelFileUtility:36 - Sheet Name:GenInvData
+  2020-04-30 18:53:39 INFO  ExcelFileUtility:23 - Test Data File Path: E:/Invoicing You_Java/TestData/InvoicingYouData.xlsx
+  2020-04-30 18:53:39 DEBUG ExcelFileUtility:25 - File Size: 12015
+  2020-04-30 18:53:39 INFO  ExcelFileUtility:36 - Sheet Name:GenInvData
+  2020-05-01 16:19:56 DEBUG GeneralInvoicesPage:37 - In Setup..
+  2020-05-01 16:19:56 INFO  Base:46 - Selected Browser:chrome
+  2020-05-01 16:19:56 DEBUG Base:48 - Web Driver Location: E:/chromedriver_win32/chromedriver.exe
+  2020-05-01 16:19:56 DEBUG Base:50 - Web Driver Path: E:\chromedriver_win32\chromedriver.exe
+  2020-05-01 16:20:25 DEBUG Base:21 - IN Invoices page..com.invoicingyou.qa.pages.GeneralInvoicesPage
+  2020-05-01 16:20:25 INFO  DashboardPage:17 - Dashboard landed. com.invoicingyou.qa.pages.DashboardPage
+  2020-05-01 16:20:25 DEBUG GeneralInvoicesPage:47 - Logging in...
+  2020-05-01 16:20:25 INFO  ExcelFileUtility:23 - Test Data File Path: E:/Invoicing You_Java/TestData/InvoicingYouData.xlsx
+  2020-05-01 16:20:25 DEBUG ExcelFileUtility:25 - File Size: 12015
+  2020-05-01 16:20:27 INFO  ExcelFileUtility:36 - Sheet Name:Login
+  2020-05-01 16:20:27 DEBUG LogInPage:36 - Login credential: work+payeltest@tier5.in/123456
+  2020-05-01 16:20:29 INFO  LogInPage:41 - Login button clicked
+  2020-05-01 16:20:29 INFO  LogInPage:46 - Riderecting to dashboard page
+  2020-05-01 16:20:29 INFO  DashboardPage:17 - Dashboard landed. com.invoicingyou.qa.pages.DashboardPage
+  2020-05-01 16:20:39 DEBUG GeneralInvoicesPage:57 - Open General INV page
+  2020-05-01 16:20:39 DEBUG Base:21 - IN Invoices page..com.invoicingyou.qa.pages.GeneralInvoicesPage
+  2020-05-01 16:20:39 DEBUG GeneralInvoicesPage:65 - Create General INV 
+  2020-05-01 16:20:39 INFO  ExcelFileUtility:23 - Test Data File Path: E:/Invoicing You_Java/TestData/InvoicingYouData.xlsx
+  2020-05-01 16:20:39 DEBUG ExcelFileUtility:25 - File Size: 12015
+  2020-05-01 16:20:39 INFO  ExcelFileUtility:36 - Sheet Name:GenInvData
+  2020-05-01 16:20:45 INFO  ExcelFileUtility:23 - Test Data File Path: E:/Invoicing You_Java/TestData/InvoicingYouData.xlsx
+  2020-05-01 16:20:45 DEBUG ExcelFileUtility:25 - File Size: 12015
+  2020-05-01 16:20:45 INFO  ExcelFileUtility:36 - Sheet Name:GenInvData
+  2020-05-01 16:21:44 DEBUG GeneralInvoicesPage:37 - In Setup..
+  2020-05-01 16:21:44 INFO  Base:46 - Selected Browser:chrome
+  2020-05-01 16:21:44 DEBUG Base:48 - Web Driver Location: E:/chromedriver_win32/chromedriver.exe
+  2020-05-01 16:21:44 DEBUG Base:50 - Web Driver Path: E:\chromedriver_win32\chromedriver.exe
+  2020-05-01 16:21:51 DEBUG Base:21 - IN Invoices page..com.invoicingyou.qa.pages.GeneralInvoicesPage
+  2020-05-01 16:21:51 INFO  DashboardPage:17 - Dashboard landed. com.invoicingyou.qa.pages.DashboardPage
+  2020-05-01 16:21:51 DEBUG GeneralInvoicesPage:47 - Logging in...
+  2020-05-01 16:21:51 INFO  ExcelFileUtility:23 - Test Data File Path: E:/Invoicing You_Java/TestData/InvoicingYouData.xlsx
+  2020-05-01 16:21:51 DEBUG ExcelFileUtility:25 - File Size: 12015
+  2020-05-01 16:21:52 INFO  ExcelFileUtility:36 - Sheet Name:Login
+  2020-05-01 16:21:52 DEBUG LogInPage:36 - Login credential: work+payeltest@tier5.in/123456
+  2020-05-01 16:21:52 INFO  LogInPage:41 - Login button clicked
+  2020-05-01 16:21:52 INFO  LogInPage:46 - Riderecting to dashboard page
+  2020-05-01 16:21:52 INFO  DashboardPage:17 - Dashboard landed. com.invoicingyou.qa.pages.DashboardPage
+  2020-05-01 16:22:02 DEBUG GeneralInvoicesPage:57 - Open General INV page
+  2020-05-01 16:22:03 DEBUG Base:21 - IN Invoices page..com.invoicingyou.qa.pages.GeneralInvoicesPage
+  2020-05-01 16:22:03 DEBUG GeneralInvoicesPage:65 - Create General INV 
+  2020-05-01 16:22:03 INFO  ExcelFileUtility:23 - Test Data File Path: E:/Invoicing You_Java/TestData/InvoicingYouData.xlsx
+  2020-05-01 16:22:03 DEBUG ExcelFileUtility:25 - File Size: 12015
+  2020-05-01 16:22:03 INFO  ExcelFileUtility:36 - Sheet Name:GenInvData
+  2020-05-01 16:22:09 INFO  ExcelFileUtility:23 - Test Data File Path: E:/Invoicing You_Java/TestData/InvoicingYouData.xlsx
+  2020-05-01 16:22:09 DEBUG ExcelFileUtility:25 - File Size: 12015
+  2020-05-01 16:22:09 INFO  ExcelFileUtility:36 - Sheet Name:GenInvData
+  2020-05-01 16:57:34 DEBUG GeneralInvoicesPage:37 - In Setup..
+  2020-05-01 16:57:34 INFO  Base:46 - Selected Browser:chrome
+  2020-05-01 16:57:34 DEBUG Base:48 - Web Driver Location: E:/chromedriver_win32/chromedriver.exe
+  2020-05-01 16:57:34 DEBUG Base:50 - Web Driver Path: E:\chromedriver_win32\chromedriver.exe
+  2020-05-01 16:57:42 DEBUG Base:21 - IN Invoices page..com.invoicingyou.qa.pages.GeneralInvoicesPage
+  2020-05-01 16:57:42 INFO  DashboardPage:17 - Dashboard landed. com.invoicingyou.qa.pages.DashboardPage
+  2020-05-01 16:57:42 DEBUG GeneralInvoicesPage:47 - Logging in...
+  2020-05-01 16:57:42 INFO  ExcelFileUtility:23 - Test Data File Path: E:/Invoicing You_Java/TestData/InvoicingYouData.xlsx
+  2020-05-01 16:57:42 DEBUG ExcelFileUtility:25 - File Size: 12015
+  2020-05-01 16:57:43 INFO  ExcelFileUtility:36 - Sheet Name:Login
+  2020-05-01 16:57:43 DEBUG LogInPage:36 - Login credential: work+payeltest@tier5.in/123456
+  2020-05-01 16:57:44 INFO  LogInPage:41 - Login button clicked
+  2020-05-01 16:57:44 INFO  LogInPage:46 - Riderecting to dashboard page
+  2020-05-01 16:57:44 INFO  DashboardPage:17 - Dashboard landed. com.invoicingyou.qa.pages.DashboardPage
+  2020-05-01 16:57:54 DEBUG GeneralInvoicesPage:57 - Open General INV page
+  2020-05-01 16:57:54 DEBUG Base:21 - IN Invoices page..com.invoicingyou.qa.pages.GeneralInvoicesPage
+  2020-05-01 16:57:54 DEBUG GeneralInvoicesPage:65 - Create General INV 
+  2020-05-01 16:57:54 INFO  ExcelFileUtility:23 - Test Data File Path: E:/Invoicing You_Java/TestData/InvoicingYouData.xlsx
+  2020-05-01 16:57:54 DEBUG ExcelFileUtility:25 - File Size: 12015
+  2020-05-01 16:57:54 INFO  ExcelFileUtility:36 - Sheet Name:GenInvData
+  2020-05-01 16:58:00 INFO  ExcelFileUtility:23 - Test Data File Path: E:/Invoicing You_Java/TestData/InvoicingYouData.xlsx
+  2020-05-01 16:58:00 DEBUG ExcelFileUtility:25 - File Size: 12015
+  2020-05-01 16:58:00 INFO  ExcelFileUtility:36 - Sheet Name:GenInvData
+  2020-05-01 17:02:25 DEBUG GeneralInvoicesPage:37 - In Setup..
+  2020-05-01 17:02:25 INFO  Base:46 - Selected Browser:chrome
+  2020-05-01 17:02:25 DEBUG Base:48 - Web Driver Location: E:/chromedriver_win32/chromedriver.exe
+  2020-05-01 17:02:25 DEBUG Base:50 - Web Driver Path: E:\chromedriver_win32\chromedriver.exe
+  2020-05-01 17:02:43 DEBUG Base:21 - IN Invoices page..com.invoicingyou.qa.pages.GeneralInvoicesPage
+  2020-05-01 17:02:43 INFO  DashboardPage:17 - Dashboard landed. com.invoicingyou.qa.pages.DashboardPage
+  2020-05-01 17:02:43 DEBUG GeneralInvoicesPage:47 - Logging in...
+  2020-05-01 17:02:43 INFO  ExcelFileUtility:23 - Test Data File Path: E:/Invoicing You_Java/TestData/InvoicingYouData.xlsx
+  2020-05-01 17:02:43 DEBUG ExcelFileUtility:25 - File Size: 12015
+  2020-05-01 17:02:44 INFO  ExcelFileUtility:36 - Sheet Name:Login
+  2020-05-01 17:02:44 DEBUG LogInPage:36 - Login credential: work+payeltest@tier5.in/123456
+  2020-05-01 17:02:45 INFO  LogInPage:41 - Login button clicked
+  2020-05-01 17:02:45 INFO  LogInPage:46 - Riderecting to dashboard page
+  2020-05-01 17:02:45 INFO  DashboardPage:17 - Dashboard landed. com.invoicingyou.qa.pages.DashboardPage
+  2020-05-01 17:02:55 DEBUG GeneralInvoicesPage:57 - Open General INV page
+  2020-05-01 17:02:55 DEBUG Base:21 - IN Invoices page..com.invoicingyou.qa.pages.GeneralInvoicesPage
+  2020-05-01 17:02:55 DEBUG GeneralInvoicesPage:65 - Create General INV 
+  2020-05-01 17:02:55 INFO  ExcelFileUtility:23 - Test Data File Path: E:/Invoicing You_Java/TestData/InvoicingYouData.xlsx
+  2020-05-01 17:02:55 DEBUG ExcelFileUtility:25 - File Size: 12015
+  2020-05-01 17:02:55 INFO  ExcelFileUtility:36 - Sheet Name:GenInvData
+  2020-05-01 17:03:01 INFO  ExcelFileUtility:23 - Test Data File Path: E:/Invoicing You_Java/TestData/InvoicingYouData.xlsx
+  2020-05-01 17:03:01 DEBUG ExcelFileUtility:25 - File Size: 12015
+  2020-05-01 17:03:01 INFO  ExcelFileUtility:36 - Sheet Name:GenInvData
+  2020-05-01 17:14:29 DEBUG GeneralInvoicesPage:37 - In Setup..
+  2020-05-01 17:14:29 INFO  Base:46 - Selected Browser:chrome
+  2020-05-01 17:14:29 DEBUG Base:48 - Web Driver Location: E:/chromedriver_win32/chromedriver.exe
+  2020-05-01 17:14:29 DEBUG Base:50 - Web Driver Path: E:\chromedriver_win32\chromedriver.exe
+  2020-05-01 17:14:42 DEBUG Base:21 - IN Invoices page..com.invoicingyou.qa.pages.GeneralInvoicesPage
+  2020-05-01 17:14:42 INFO  DashboardPage:17 - Dashboard landed. com.invoicingyou.qa.pages.DashboardPage
+  2020-05-01 17:14:42 DEBUG GeneralInvoicesPage:47 - Logging in...
+  2020-05-01 17:14:42 INFO  ExcelFileUtility:23 - Test Data File Path: E:/Invoicing You_Java/TestData/InvoicingYouData.xlsx
+  2020-05-01 17:14:42 DEBUG ExcelFileUtility:25 - File Size: 12015
+  2020-05-01 17:14:43 INFO  ExcelFileUtility:36 - Sheet Name:Login
+  2020-05-01 17:14:43 DEBUG LogInPage:36 - Login credential: work+payeltest@tier5.in/123456
+  2020-05-01 17:14:43 INFO  LogInPage:41 - Login button clicked
+  2020-05-01 17:14:43 INFO  LogInPage:46 - Riderecting to dashboard page
+  2020-05-01 17:14:43 INFO  DashboardPage:17 - Dashboard landed. com.invoicingyou.qa.pages.DashboardPage
+  2020-05-01 17:14:53 DEBUG GeneralInvoicesPage:57 - Open General INV page
+  2020-05-01 17:14:54 DEBUG Base:21 - IN Invoices page..com.invoicingyou.qa.pages.GeneralInvoicesPage
+  2020-05-01 17:14:54 DEBUG GeneralInvoicesPage:65 - Create General INV 
+  2020-05-01 17:14:54 INFO  ExcelFileUtility:23 - Test Data File Path: E:/Invoicing You_Java/TestData/InvoicingYouData.xlsx
+  2020-05-01 17:14:54 DEBUG ExcelFileUtility:25 - File Size: 12015
+  2020-05-01 17:14:54 INFO  ExcelFileUtility:36 - Sheet Name:GenInvData
+  2020-05-01 17:15:00 INFO  ExcelFileUtility:23 - Test Data File Path: E:/Invoicing You_Java/TestData/InvoicingYouData.xlsx
+  2020-05-01 17:15:00 DEBUG ExcelFileUtility:25 - File Size: 12015
+  2020-05-01 17:15:00 INFO  ExcelFileUtility:36 - Sheet Name:GenInvData
+  2020-05-01 17:16:10 DEBUG GeneralInvoicesPage:37 - In Setup..
+  2020-05-01 17:16:10 INFO  Base:46 - Selected Browser:chrome
+  2020-05-01 17:16:10 DEBUG Base:48 - Web Driver Location: E:/chromedriver_win32/chromedriver.exe
+  2020-05-01 17:16:10 DEBUG Base:50 - Web Driver Path: E:\chromedriver_win32\chromedriver.exe
+  2020-05-01 17:16:17 DEBUG Base:21 - IN Invoices page..com.invoicingyou.qa.pages.GeneralInvoicesPage
+  2020-05-01 17:16:17 INFO  DashboardPage:17 - Dashboard landed. com.invoicingyou.qa.pages.DashboardPage
+  2020-05-01 17:16:17 DEBUG GeneralInvoicesPage:47 - Logging in...
+  2020-05-01 17:16:17 INFO  ExcelFileUtility:23 - Test Data File Path: E:/Invoicing You_Java/TestData/InvoicingYouData.xlsx
+  2020-05-01 17:16:17 DEBUG ExcelFileUtility:25 - File Size: 12015
+  2020-05-01 17:16:18 INFO  ExcelFileUtility:36 - Sheet Name:Login
+  2020-05-01 17:16:18 DEBUG LogInPage:36 - Login credential: work+payeltest@tier5.in/123456
+  2020-05-01 17:16:19 INFO  LogInPage:41 - Login button clicked
+  2020-05-01 17:16:19 INFO  LogInPage:46 - Riderecting to dashboard page
+  2020-05-01 17:16:19 INFO  DashboardPage:17 - Dashboard landed. com.invoicingyou.qa.pages.DashboardPage
+  2020-05-01 17:16:29 DEBUG GeneralInvoicesPage:57 - Open General INV page
+  2020-05-01 17:16:29 DEBUG Base:21 - IN Invoices page..com.invoicingyou.qa.pages.GeneralInvoicesPage
+  2020-05-01 17:16:29 DEBUG GeneralInvoicesPage:65 - Create General INV 
+  2020-05-01 17:16:29 INFO  ExcelFileUtility:23 - Test Data File Path: E:/Invoicing You_Java/TestData/InvoicingYouData.xlsx
+  2020-05-01 17:16:29 DEBUG ExcelFileUtility:25 - File Size: 12015
+  2020-05-01 17:16:29 INFO  ExcelFileUtility:36 - Sheet Name:GenInvData
+  2020-05-01 17:16:36 INFO  ExcelFileUtility:23 - Test Data File Path: E:/Invoicing You_Java/TestData/InvoicingYouData.xlsx
+  2020-05-01 17:16:36 DEBUG ExcelFileUtility:25 - File Size: 12015
+  2020-05-01 17:16:36 INFO  ExcelFileUtility:36 - Sheet Name:GenInvData
+  2020-05-01 17:23:44 DEBUG GeneralInvoicesPage:37 - In Setup..
+  2020-05-01 17:23:44 INFO  Base:46 - Selected Browser:chrome
+  2020-05-01 17:23:44 DEBUG Base:48 - Web Driver Location: E:/chromedriver_win32/chromedriver.exe
+  2020-05-01 17:23:44 DEBUG Base:50 - Web Driver Path: E:\chromedriver_win32\chromedriver.exe
+  2020-05-01 17:23:52 DEBUG Base:21 - IN Invoices page..com.invoicingyou.qa.pages.GeneralInvoicesPage
+  2020-05-01 17:23:52 INFO  DashboardPage:17 - Dashboard landed. com.invoicingyou.qa.pages.DashboardPage
+  2020-05-01 17:23:52 DEBUG GeneralInvoicesPage:47 - Logging in...
+  2020-05-01 17:23:52 INFO  ExcelFileUtility:23 - Test Data File Path: E:/Invoicing You_Java/TestData/InvoicingYouData.xlsx
+  2020-05-01 17:23:52 DEBUG ExcelFileUtility:25 - File Size: 12015
+  2020-05-01 17:23:53 INFO  ExcelFileUtility:36 - Sheet Name:Login
+  2020-05-01 17:23:53 DEBUG LogInPage:36 - Login credential: work+payeltest@tier5.in/123456
+  2020-05-01 17:23:54 INFO  LogInPage:41 - Login button clicked
+  2020-05-01 17:23:54 INFO  LogInPage:46 - Riderecting to dashboard page
+  2020-05-01 17:23:54 INFO  DashboardPage:17 - Dashboard landed. com.invoicingyou.qa.pages.DashboardPage
+  2020-05-01 17:24:04 DEBUG GeneralInvoicesPage:57 - Open General INV page
+  2020-05-01 17:24:04 DEBUG Base:21 - IN Invoices page..com.invoicingyou.qa.pages.GeneralInvoicesPage
+  2020-05-01 17:24:04 DEBUG GeneralInvoicesPage:65 - Create General INV 
+  2020-05-01 17:24:04 INFO  ExcelFileUtility:23 - Test Data File Path: E:/Invoicing You_Java/TestData/InvoicingYouData.xlsx
+  2020-05-01 17:24:04 DEBUG ExcelFileUtility:25 - File Size: 12015
+  2020-05-01 17:24:04 INFO  ExcelFileUtility:36 - Sheet Name:GenInvData
+  2020-05-01 17:24:10 INFO  ExcelFileUtility:23 - Test Data File Path: E:/Invoicing You_Java/TestData/InvoicingYouData.xlsx
+  2020-05-01 17:24:10 DEBUG ExcelFileUtility:25 - File Size: 12015
+  2020-05-01 17:24:11 INFO  ExcelFileUtility:36 - Sheet Name:GenInvData
+  2020-05-01 17:27:18 DEBUG GeneralInvoicesPage:37 - In Setup..
+  2020-05-01 17:27:18 INFO  Base:46 - Selected Browser:chrome
+  2020-05-01 17:27:18 DEBUG Base:48 - Web Driver Location: E:/chromedriver_win32/chromedriver.exe
+  2020-05-01 17:27:18 DEBUG Base:50 - Web Driver Path: E:\chromedriver_win32\chromedriver.exe
+  2020-05-01 17:27:39 DEBUG Base:21 - IN Invoices page..com.invoicingyou.qa.pages.GeneralInvoicesPage
+  2020-05-01 17:27:39 INFO  DashboardPage:17 - Dashboard landed. com.invoicingyou.qa.pages.DashboardPage
+  2020-05-01 17:27:39 DEBUG GeneralInvoicesPage:47 - Logging in...
+  2020-05-01 17:27:39 INFO  ExcelFileUtility:23 - Test Data File Path: E:/Invoicing You_Java/TestData/InvoicingYouData.xlsx
+  2020-05-01 17:27:39 DEBUG ExcelFileUtility:25 - File Size: 12015
+  2020-05-01 17:27:46 INFO  ExcelFileUtility:36 - Sheet Name:Login
+  2020-05-01 17:27:46 DEBUG LogInPage:36 - Login credential: work+payeltest@tier5.in/123456
+  2020-05-01 17:27:47 INFO  LogInPage:41 - Login button clicked
+  2020-05-01 17:27:47 INFO  LogInPage:46 - Riderecting to dashboard page
+  2020-05-01 17:27:47 INFO  DashboardPage:17 - Dashboard landed. com.invoicingyou.qa.pages.DashboardPage
+  2020-05-01 17:27:57 DEBUG GeneralInvoicesPage:57 - Open General INV page
+  2020-05-01 17:27:57 DEBUG Base:21 - IN Invoices page..com.invoicingyou.qa.pages.GeneralInvoicesPage
+  2020-05-01 17:27:57 DEBUG GeneralInvoicesPage:65 - Create General INV 
+  2020-05-01 17:27:57 INFO  ExcelFileUtility:23 - Test Data File Path: E:/Invoicing You_Java/TestData/InvoicingYouData.xlsx
+  2020-05-01 17:27:57 DEBUG ExcelFileUtility:25 - File Size: 12015
+  2020-05-01 17:27:57 INFO  ExcelFileUtility:36 - Sheet Name:GenInvData
+  2020-05-01 17:28:04 INFO  ExcelFileUtility:23 - Test Data File Path: E:/Invoicing You_Java/TestData/InvoicingYouData.xlsx
+  2020-05-01 17:28:04 DEBUG ExcelFileUtility:25 - File Size: 12015
+  2020-05-01 17:28:04 INFO  ExcelFileUtility:36 - Sheet Name:GenInvData
+  2020-05-04 16:06:54 DEBUG GeneralInvoicesPage:34 - In Setup..
+  2020-05-04 16:06:54 INFO  Base:46 - Selected Browser:chrome
+  2020-05-04 16:06:54 DEBUG Base:48 - Web Driver Location: E:/chromedriver_win32/chromedriver.exe
+  2020-05-04 16:06:54 DEBUG Base:50 - Web Driver Path: E:\chromedriver_win32\chromedriver.exe
+  2020-05-04 16:07:37 DEBUG Base:21 - IN Invoices page..com.invoicingyou.qa.pages.GeneralInvoicesPage
+  2020-05-04 16:07:37 INFO  DashboardPage:17 - Dashboard landed. com.invoicingyou.qa.pages.DashboardPage
+  2020-05-04 16:07:37 DEBUG GeneralInvoicesPage:44 - Logging in...
+  2020-05-04 16:07:37 INFO  ExcelFileUtility:23 - Test Data File Path: E:/Invoicing You_Java/TestData/InvoicingYouData.xlsx
+  2020-05-04 16:07:37 DEBUG ExcelFileUtility:25 - File Size: 12015
+  2020-05-04 16:07:52 INFO  ExcelFileUtility:36 - Sheet Name:Login
+  2020-05-04 16:07:52 DEBUG LogInPage:36 - Login credential: work+payeltest@tier5.in/123456
+  2020-05-04 16:07:54 INFO  LogInPage:41 - Login button clicked
+  2020-05-04 16:07:54 INFO  LogInPage:46 - Riderecting to dashboard page
+  2020-05-04 16:07:54 INFO  DashboardPage:17 - Dashboard landed. com.invoicingyou.qa.pages.DashboardPage
+  2020-05-04 16:08:04 DEBUG GeneralInvoicesPage:54 - Open General INV page
+  2020-05-04 16:08:04 DEBUG Base:21 - IN Invoices page..com.invoicingyou.qa.pages.GeneralInvoicesPage
+  2020-05-04 16:08:04 DEBUG GeneralInvoicesPage:62 - Create General INV 
+  2020-05-04 16:08:04 INFO  ExcelFileUtility:23 - Test Data File Path: E:/Invoicing You_Java/TestData/InvoicingYouData.xlsx
+  2020-05-04 16:08:04 DEBUG ExcelFileUtility:25 - File Size: 12015
+  2020-05-04 16:08:04 INFO  ExcelFileUtility:36 - Sheet Name:GenInvData
+  2020-05-04 18:21:09 DEBUG GeneralInvoicesPage:34 - In Setup..
+  2020-05-04 18:21:09 INFO  Base:46 - Selected Browser:chrome
+  2020-05-04 18:21:09 DEBUG Base:48 - Web Driver Location: E:/chromedriver_win32/chromedriver.exe
+  2020-05-04 18:21:09 DEBUG Base:50 - Web Driver Path: E:\chromedriver_win32\chromedriver.exe
+  2020-05-04 18:21:47 DEBUG Base:21 - IN Invoices page..com.invoicingyou.qa.pages.GeneralInvoicesPage
+  2020-05-04 18:21:47 INFO  DashboardPage:17 - Dashboard landed. com.invoicingyou.qa.pages.DashboardPage
+  2020-05-04 18:21:47 DEBUG GeneralInvoicesPage:44 - Logging in...
+  2020-05-04 18:21:47 INFO  ExcelFileUtility:23 - Test Data File Path: E:/Invoicing You_Java/TestData/InvoicingYouData.xlsx
+  2020-05-04 18:21:48 DEBUG ExcelFileUtility:25 - File Size: 12226
+  2020-05-04 18:21:53 INFO  ExcelFileUtility:36 - Sheet Name:Login
+  2020-05-04 18:21:53 DEBUG LogInPage:36 - Login credential: work+payeltest@tier5.in/123456
+  2020-05-04 18:21:57 INFO  LogInPage:41 - Login button clicked
+  2020-05-04 18:21:57 INFO  LogInPage:46 - Riderecting to dashboard page
+  2020-05-04 18:21:57 INFO  DashboardPage:17 - Dashboard landed. com.invoicingyou.qa.pages.DashboardPage
+  2020-05-04 18:22:07 DEBUG GeneralInvoicesPage:54 - Open General INV page
+  2020-05-04 18:22:07 DEBUG Base:21 - IN Invoices page..com.invoicingyou.qa.pages.GeneralInvoicesPage
+  2020-05-04 18:22:07 DEBUG GeneralInvoicesPage:62 - Create General INV 
+  2020-05-04 18:22:07 INFO  ExcelFileUtility:23 - Test Data File Path: E:/Invoicing You_Java/TestData/InvoicingYouData.xlsx
+  2020-05-04 18:22:07 DEBUG ExcelFileUtility:25 - File Size: 12226
+  2020-05-04 18:22:07 INFO  ExcelFileUtility:36 - Sheet Name:GenInvData
+  2020-05-04 19:02:46 DEBUG GeneralInvoicesPage:34 - In Setup..
+  2020-05-04 19:02:46 INFO  Base:46 - Selected Browser:chrome
+  2020-05-04 19:02:46 DEBUG Base:48 - Web Driver Location: E:/chromedriver_win32/chromedriver.exe
+  2020-05-04 19:02:46 DEBUG Base:50 - Web Driver Path: E:\chromedriver_win32\chromedriver.exe
+  2020-05-04 19:03:11 DEBUG Base:21 - IN Invoices page..com.invoicingyou.qa.pages.GeneralInvoicesPage
+  2020-05-04 19:03:11 INFO  DashboardPage:17 - Dashboard landed. com.invoicingyou.qa.pages.DashboardPage
+  2020-05-04 19:03:11 DEBUG GeneralInvoicesPage:44 - Logging in...
+  2020-05-04 19:03:11 INFO  ExcelFileUtility:23 - Test Data File Path: E:/Invoicing You_Java/TestData/InvoicingYouData.xlsx
+  2020-05-04 19:03:11 DEBUG ExcelFileUtility:25 - File Size: 12074
+  2020-05-04 19:03:29 INFO  ExcelFileUtility:36 - Sheet Name:Login
+  2020-05-04 19:03:29 DEBUG LogInPage:36 - Login credential: work+payeltest@tier5.in/123456
+  2020-05-04 19:03:31 INFO  LogInPage:41 - Login button clicked
+  2020-05-04 19:03:31 INFO  LogInPage:46 - Riderecting to dashboard page
+  2020-05-04 19:03:31 INFO  DashboardPage:17 - Dashboard landed. com.invoicingyou.qa.pages.DashboardPage
+  2020-05-04 19:03:41 DEBUG GeneralInvoicesPage:54 - Open General INV page
+  2020-05-04 19:03:42 DEBUG Base:21 - IN Invoices page..com.invoicingyou.qa.pages.GeneralInvoicesPage
+  2020-05-04 19:03:42 DEBUG GeneralInvoicesPage:62 - Create General INV 
+  2020-05-04 19:03:42 INFO  ExcelFileUtility:23 - Test Data File Path: E:/Invoicing You_Java/TestData/InvoicingYouData.xlsx
+  2020-05-04 19:03:42 DEBUG ExcelFileUtility:25 - File Size: 12074
+  2020-05-04 19:03:42 INFO  ExcelFileUtility:36 - Sheet Name:GenInvData
+  

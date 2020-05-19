@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="65353" started-at="2020-05-04T13:32:46Z" finished-at="2020-05-04T13:33:52Z">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="65353" started-at="2020-05-04T13:32:46Z" finished-at="2020-05-04T13:33:52Z">
+      <class name="com.invoicingyou.qa.testcases.GeneralInvoiceTest">
+        <test-method status="PASS" signature="TestLogIn()[pri:0, instance:com.invoicingyou.qa.testcases.GeneralInvoiceTest@51081592]" name="TestLogIn" duration-ms="54300" started-at="2020-05-04T19:02:46Z" finished-at="2020-05-04T19:03:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestLogIn -->
+        <test-method status="PASS" signature="OpenGeneralInvPage()[pri:0, instance:com.invoicingyou.qa.testcases.GeneralInvoiceTest@51081592]" name="OpenGeneralInvPage" duration-ms="1014" started-at="2020-05-04T19:03:41Z" finished-at="2020-05-04T19:03:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenGeneralInvPage -->
+        <test-method status="PASS" signature="CreateGeneralInvPage()[pri:0, instance:com.invoicingyou.qa.testcases.GeneralInvoiceTest@51081592]" name="CreateGeneralInvPage" duration-ms="10023" started-at="2020-05-04T19:03:42Z" finished-at="2020-05-04T19:03:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateGeneralInvPage -->
+      </class> <!-- com.invoicingyou.qa.testcases.GeneralInvoiceTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
